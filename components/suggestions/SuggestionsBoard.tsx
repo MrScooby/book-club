@@ -23,10 +23,6 @@ function SuggestionCard({ item }: { item: SuggestionItem }) {
   return (
     <Card sx={{ opacity: item.rejected ? 0.6 : 1, borderColor: item.onList ? 'secondary.main' : undefined }}>
       <CardContent sx={{ display: 'flex', gap: 1.5, pb: '12px !important' }}>
-        {book.coverUrl && (
-          <Box component="img" src={book.coverUrl} alt="" loading="lazy"
-            sx={{ width: 56, height: 84, objectFit: 'cover', borderRadius: 1, flexShrink: 0, bgcolor: 'grey.100' }} />
-        )}
         <Box sx={{ flex: 1, minWidth: 0 }}>
           <Typography sx={{ fontWeight: 600, lineHeight: 1.3, textDecoration: item.rejected ? 'line-through' : 'none' }}>
             {book.url ? (

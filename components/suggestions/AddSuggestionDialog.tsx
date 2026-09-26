@@ -3,7 +3,7 @@
 import { useState, useTransition } from 'react'
 import {
   Dialog, DialogTitle, DialogContent, DialogActions, Button, TextField, ToggleButtonGroup, ToggleButton,
-  Stack, Alert, CircularProgress, InputAdornment, IconButton, Box, useMediaQuery, useTheme
+  Stack, Alert, CircularProgress, InputAdornment, IconButton, useMediaQuery, useTheme
 } from '@mui/material'
 import { CloudDownload } from '@mui/icons-material'
 import type { Person } from '@/lib/generated/prisma/enums'
@@ -18,7 +18,7 @@ interface Props {
   defaultPerson: Person
 }
 
-const empty = { url: '', title: '', author: '', pages: '', coverUrl: '', lcId: null as number | null }
+const empty = { url: '', title: '', author: '', pages: '', lcId: null as number | null }
 
 export default function AddSuggestionDialog({ year, open, onClose, defaultPerson }: Props) {
   const theme = useTheme()
@@ -52,7 +52,6 @@ export default function AddSuggestionDialog({ year, open, onClose, defaultPerson
       title: b.title || f.title,
       author: b.author ?? f.author,
       pages: b.pages ? String(b.pages) : f.pages,
-      coverUrl: b.coverUrl ?? f.coverUrl,
       lcId: b.lcId
     }))
   }
@@ -72,7 +71,6 @@ export default function AddSuggestionDialog({ year, open, onClose, defaultPerson
         author: form.author,
         url: form.url,
         pages: form.pages,
-        coverUrl: form.coverUrl,
         lcId: form.lcId
       })
       if (!res.ok) return setError(res.error)
@@ -124,17 +122,10 @@ export default function AddSuggestionDialog({ year, open, onClose, defaultPerson
             }}
           />
 
-          <Stack direction="row" spacing={2} sx={{ alignItems: 'flex-start' }}>
-            {form.coverUrl && (
-              <Box component="img" src={form.coverUrl} alt="" sx={{ width: 72, borderRadius: 1, flexShrink: 0 }} />
-            )}
-            <Stack spacing={2} sx={{ flex: 1 }}>
-              <TextField label="Title" value={form.title} onChange={set('title')} fullWidth required />
-              <TextField label="Author" value={form.author} onChange={set('author')} fullWidth />
-              <TextField label="Pages" value={form.pages} onChange={set('pages')} type="number" sx={{ maxWidth: 160 }}
-                slotProps={{ htmlInput: { inputMode: 'numeric', min: 1 } }} />
-            </Stack>
-          </Stack>
+          <TextField label="Title" value={form.title} onChange={set('title')} fullWidth required />
+          <TextField label="Author" value={form.author} onChange={set('author')} fullWidth />
+          <TextField label="Pages" value={form.pages} onChange={set('pages')} type="number" sx={{ maxWidth: 160 }}
+            slotProps={{ htmlInput: { inputMode: 'numeric', min: 1 } }} />
 
           {error && <Alert severity="error">{error}</Alert>}
         </Stack>

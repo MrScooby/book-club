@@ -89,7 +89,6 @@ export interface NewSuggestion {
   author?: string
   url?: string
   pages?: number | string | null
-  coverUrl?: string | null
   lcId?: number | null
 }
 
@@ -102,7 +101,6 @@ export async function addSuggestion(input: NewSuggestion): Promise<Result> {
   const url = clean(input.url, 500) || null
   const lcId = typeof input.lcId === 'number' && Number.isInteger(input.lcId) && input.lcId > 0 ? input.lcId : null
   const author = clean(input.author) || null
-  const coverUrl = clean(input.coverUrl, 500) || null
   const pages = toPages(input.pages)
 
   let book =
@@ -110,7 +108,7 @@ export async function addSuggestion(input: NewSuggestion): Promise<Result> {
     (await db.book.findFirst({ where: { title: { equals: title, mode: 'insensitive' } } }))
 
   if (!book) {
-    book = await db.book.create({ data: { title, author, url, pages, coverUrl, lcId } })
+    book = await db.book.create({ data: { title, author, url, pages, lcId } })
   } else {
     await db.book.update({
       where: { id: book.id },
@@ -118,7 +116,6 @@ export async function addSuggestion(input: NewSuggestion): Promise<Result> {
         author: book.author ?? author,
         url: book.url ?? url,
         pages: book.pages ?? pages,
-        coverUrl: book.coverUrl ?? coverUrl,
         lcId: book.lcId ?? lcId
       }
     })

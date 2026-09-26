@@ -19,7 +19,6 @@ model Book {
   author      String?
   url         String?
   pages       Int?
-  coverUrl    String?
   lcId        Int?         @unique
   createdAt   DateTime     @default(now())
   suggestions Suggestion[]

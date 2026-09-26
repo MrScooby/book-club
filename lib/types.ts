@@ -6,7 +6,6 @@ export interface BookInfo {
   author: string | null
   url: string | null
   pages: number | null
-  coverUrl: string | null
 }
 
 export interface YearBookItem {

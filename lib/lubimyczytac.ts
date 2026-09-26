@@ -6,7 +6,6 @@ export interface ScrapedBook {
   title: string
   author: string | null
   pages: number | null
-  coverUrl: string | null
 }
 
 export function isLubimyczytacUrl(url: string) {
@@ -32,7 +31,6 @@ export async function scrapeBook(url: string): Promise<ScrapedBook> {
     lcId: Number.isFinite(lcId) && lcId > 0 ? lcId : null,
     title: $('h1.book__title').text().trim(),
     author: authors.length ? authors.join(', ') : null,
-    pages: Number.isFinite(pages) && pages > 0 ? pages : null,
-    coverUrl: $('#js-lightboxCover').attr('href') || null
+    pages: Number.isFinite(pages) && pages > 0 ? pages : null
   }
 }

@@ -2,7 +2,7 @@ import { db } from '@/lib/db'
 import { currentYear } from '@/lib/years'
 import type { SuggestionItem, YearBookItem, YearStats } from '@/lib/types'
 
-const bookSelect = { id: true, title: true, author: true, url: true, pages: true, coverUrl: true } as const
+const bookSelect = { id: true, title: true, author: true, url: true, pages: true } as const
 
 export async function getYearList(year: number): Promise<YearBookItem[]> {
   const rows = await db.yearBook.findMany({
