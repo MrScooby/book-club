@@ -12,6 +12,7 @@ export interface YearBookItem {
   id: string
   year: number
   position: number
+  proposedBy: Person | null
   book: BookInfo
   reads: Person[]
 }

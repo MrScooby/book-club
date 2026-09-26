@@ -8,13 +8,17 @@ export async function getYearList(year: number): Promise<YearBookItem[]> {
   const rows = await db.yearBook.findMany({
     where: { year },
     orderBy: { position: 'asc' },
-    include: { book: { select: bookSelect }, reads: { select: { person: true } } }
+    include: {
+      book: { select: { ...bookSelect, suggestions: { where: { year }, select: { proposedBy: true }, take: 1 } } },
+      reads: { select: { person: true } }
+    }
   })
-  return rows.map((r) => ({
+  return rows.map(({ book: { suggestions, ...book }, ...r }) => ({
     id: r.id,
     year: r.year,
     position: r.position,
-    book: r.book,
+    proposedBy: suggestions[0]?.proposedBy ?? null,
+    book,
     reads: r.reads.map((x) => x.person)
   }))
 }

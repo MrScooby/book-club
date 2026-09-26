@@ -33,20 +33,16 @@ export async function toggleRead(yearBookId: string, person: unknown): Promise<R
   return { ok: true }
 }
 
-export async function moveOnList(yearBookId: string, direction: 'up' | 'down'): Promise<Result> {
-  const current = await db.yearBook.findUnique({ where: { id: yearBookId } })
-  if (!current) return { ok: false, error: 'Book not found' }
-  const neighbour = await db.yearBook.findFirst({
-    where: { year: current.year, position: direction === 'up' ? { lt: current.position } : { gt: current.position } },
-    orderBy: { position: direction === 'up' ? 'desc' : 'asc' }
-  })
-  if (!neighbour) return { ok: true }
-  await db.$transaction([
-    db.yearBook.update({ where: { id: current.id }, data: { position: -1 } }),
-    db.yearBook.update({ where: { id: neighbour.id }, data: { position: current.position } }),
-    db.yearBook.update({ where: { id: current.id }, data: { position: neighbour.position } })
-  ])
-  revalidateYear(current.year)
+export async function reorderList(year: number, orderedIds: unknown): Promise<Result> {
+  if (!Array.isArray(orderedIds) || !orderedIds.every((id) => typeof id === 'string')) {
+    return { ok: false, error: 'Invalid order' }
+  }
+  const ids = orderedIds as string[]
+  const existing = await db.yearBook.findMany({ where: { year }, select: { id: true } })
+  const known = new Set(existing.map((x) => x.id))
+  if (ids.length !== known.size || !ids.every((id) => known.has(id))) return { ok: false, error: 'List changed, reload' }
+  await db.$transaction(ids.map((id, i) => db.yearBook.update({ where: { id }, data: { position: i + 1 } })))
+  revalidateYear(year)
   return { ok: true }
 }
 
