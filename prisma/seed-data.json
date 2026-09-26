@@ -1,0 +1,3327 @@
+{
+  "books": [
+    {
+      "key": "lc:4860910",
+      "title": "Pan raczy żartować, panie Feynman! Przypadki ciekawego człowieka",
+      "url": "https://lubimyczytac.pl/ksiazka/4860910/pan-raczy-zartowac-panie-feynman-przypadki-ciekawego-czlowieka",
+      "pages": 448,
+      "lcId": 4860910
+    },
+    {
+      "key": "lc:4858281",
+      "title": "21 lekcji na XXI wiek",
+      "url": "https://lubimyczytac.pl/ksiazka/4858281/21-lekcji-na-xxi-wiek",
+      "pages": 456,
+      "lcId": 4858281
+    },
+    {
+      "key": "lc:4897078",
+      "title": "O północy w Czarnobylu",
+      "url": "https://lubimyczytac.pl/ksiazka/4897078/o-polnocy-w-czarnobylu",
+      "pages": 536,
+      "lcId": 4897078
+    },
+    {
+      "key": "lc:4867395",
+      "title": "Sapiens. Od zwierząt do bogów",
+      "url": "https://lubimyczytac.pl/ksiazka/4867395/sapiens-od-zwierzat-do-bogow",
+      "pages": 544,
+      "lcId": 4867395
+    },
+    {
+      "key": "lc:4233532",
+      "title": "Problem trzech ciał",
+      "url": "https://lubimyczytac.pl/ksiazka/4233532/problem-trzech-cial",
+      "pages": 452,
+      "lcId": 4233532
+    },
+    {
+      "key": "lc:4892513",
+      "title": "Wisła w ogniu",
+      "url": "https://lubimyczytac.pl/ksiazka/4892513/wisla-w-ogniu",
+      "pages": 360,
+      "lcId": 4892513
+    },
+    {
+      "key": "lc:4800034",
+      "title": "Efekt Lucyfera. Dlaczego dobrzy ludzie czynią zło?",
+      "url": "https://lubimyczytac.pl/ksiazka/4800034/efekt-lucyfera-dlaczego-dobrzy-ludzie-czynia-zlo",
+      "pages": 486,
+      "lcId": 4800034
+    },
+    {
+      "key": "lc:4822753",
+      "title": "Homo deus. Krótka historia jutra",
+      "url": "https://lubimyczytac.pl/ksiazka/4822753/homo-deus-krotka-historia-jutra",
+      "pages": null,
+      "lcId": 4822753
+    },
+    {
+      "key": "lc:265114",
+      "title": "What if?",
+      "url": "https://lubimyczytac.pl/ksiazka/265114/what-if-a-co-gdyby-naukowe-odpowiedzi-na-absurdalne-i-hipotetyczne-pytania",
+      "pages": 372,
+      "lcId": 265114
+    },
+    {
+      "key": "lc:37748",
+      "title": "Kafka nad morzem",
+      "url": "https://lubimyczytac.pl/ksiazka/37748/kafka-nad-morzem",
+      "pages": 624,
+      "lcId": 37748
+    },
+    {
+      "key": "lc:4871398",
+      "title": "Siedem śmierci Evelyn Hardcastle",
+      "url": "https://lubimyczytac.pl/ksiazka/4871398/siedem-smierci-evelyn-hardcastle",
+      "pages": 508,
+      "lcId": 4871398
+    },
+    {
+      "key": "lc:4813295",
+      "title": "Pięć lat kacetu",
+      "url": "https://lubimyczytac.pl/ksiazka/4813295/piec-lat-kacetu",
+      "pages": 616,
+      "lcId": 4813295
+    },
+    {
+      "key": "lc:170097",
+      "title": "Droga",
+      "url": "https://lubimyczytac.pl/ksiazka/170097/droga",
+      "pages": 270,
+      "lcId": 170097
+    },
+    {
+      "key": "lc:4877852",
+      "title": "Instytut",
+      "url": "https://lubimyczytac.pl/ksiazka/4877852/instytut",
+      "pages": 672,
+      "lcId": 4877852
+    },
+    {
+      "key": "lc:4173413",
+      "title": "Wzgórze psów",
+      "url": "https://lubimyczytac.pl/ksiazka/4173413/wzgorze-psow",
+      "pages": null,
+      "lcId": 4173413
+    },
+    {
+      "key": "lc:4092539",
+      "title": "Za zamkniętymi drzwiami",
+      "url": "https://lubimyczytac.pl/ksiazka/4092539/za-zamknietymi-drzwiami?",
+      "pages": null,
+      "lcId": 4092539
+    },
+    {
+      "key": "lc:4704919",
+      "title": "Wspomnienie o przeszłości Ziemi. Tom 2. Ciemny las",
+      "url": "https://lubimyczytac.pl/ksiazka/4704919/ciemny-las",
+      "pages": 672,
+      "lcId": 4704919
+    },
+    {
+      "key": "lc:4931632",
+      "title": "pokora",
+      "url": "https://lubimyczytac.pl/ksiazka/4931632/pokora",
+      "pages": 520,
+      "lcId": 4931632
+    },
+    {
+      "key": "lc:4805850",
+      "title": "Jak się nie pomylić, czyli potęga matematycznego myślenia",
+      "url": "https://lubimyczytac.pl/ksiazka/4805850/jak-sie-nie-pomylic-czyli-potega-matematycznego-myslenia",
+      "pages": 368,
+      "lcId": 4805850
+    },
+    {
+      "key": "lc:4853986",
+      "title": "Ostre przedmioty",
+      "url": "https://lubimyczytac.pl/ksiazka/4853986/ostre-przedmioty",
+      "pages": 336,
+      "lcId": 4853986
+    },
+    {
+      "key": "lc:4882986",
+      "title": "27 śmierci Toby’ego Obeda",
+      "url": "https://lubimyczytac.pl/ksiazka/4882986/27-smierci-toby-ego-obeda",
+      "pages": 343,
+      "lcId": 4882986
+    },
+    {
+      "key": "lc:312930",
+      "title": "Szóste wymieranie. Historia nienaturalna",
+      "url": "https://lubimyczytac.pl/ksiazka/312930/szoste-wymieranie-historia-nienaturalna",
+      "pages": 384,
+      "lcId": 312930
+    },
+    {
+      "key": "lc:4871303",
+      "title": "Oscary. Sekrety największej nagrody filmowej",
+      "url": "https://lubimyczytac.pl/ksiazka/4871303/oscary-sekrety-najwiekszej-nagrody-filmowej",
+      "pages": 320,
+      "lcId": 4871303
+    },
+    {
+      "key": "lc:4939813",
+      "title": "Zmierzch demokracji. Zwodniczy powab autorytaryzmu",
+      "url": "https://lubimyczytac.pl/ksiazka/4939813/zmierzch-demokracji-zwodniczy-powab-autorytaryzmu",
+      "pages": 280,
+      "lcId": 4939813
+    },
+    {
+      "key": "lc:4928183",
+      "title": "Tesla. Geniusz na skraju szaleństwa",
+      "url": "https://lubimyczytac.pl/ksiazka/4928183/tesla-geniusz-na-skraju-szalenstwa",
+      "pages": 480,
+      "lcId": 4928183
+    },
+    {
+      "key": "lc:4921833",
+      "title": "Pomocnik kata",
+      "url": "https://lubimyczytac.pl/ksiazka/4921833/pomocnik-kata",
+      "pages": 400,
+      "lcId": 4921833
+    },
+    {
+      "key": "lc:308501",
+      "title": "Tworzenie bogatego świata Smok Griaule",
+      "url": "https://lubimyczytac.pl/ksiazka/308501/tworzenie-bogatego-swiata",
+      "pages": 368,
+      "lcId": 308501
+    },
+    {
+      "key": "lc:4933594",
+      "title": "Prosta sprawa",
+      "url": "https://lubimyczytac.pl/ksiazka/4933594/prosta-sprawa",
+      "pages": 383,
+      "lcId": 4933594
+    },
+    {
+      "key": "lc:4885764",
+      "title": "Jak mniej myśleć. Dla analizujących bez końca i wysoko wrażliwych",
+      "url": "https://lubimyczytac.pl/ksiazka/4885764/jak-mniej-myslec-dla-analizujacych-bez-konca-i-wysoko-wrazliwych",
+      "pages": 232,
+      "lcId": 4885764
+    },
+    {
+      "key": "lc:4914717",
+      "title": "Strażak",
+      "url": "https://lubimyczytac.pl/ksiazka/4914717/strazak",
+      "pages": 736,
+      "lcId": 4914717
+    },
+    {
+      "key": "lc:54023",
+      "title": "Bóg zapłać",
+      "url": "https://lubimyczytac.pl/ksiazka/54023/bog-zaplac",
+      "pages": 240,
+      "lcId": 54023
+    },
+    {
+      "key": "lc:124827",
+      "title": "Smok Griaule",
+      "url": "https://lubimyczytac.pl/ksiazka/124827/smok-griaule",
+      "pages": 368,
+      "lcId": 124827
+    },
+    {
+      "key": "lc:49846",
+      "title": "Rzeka Bogów",
+      "url": "https://lubimyczytac.pl/ksiazka/49846/rzeka-bogow",
+      "pages": 528,
+      "lcId": 49846
+    },
+    {
+      "key": "lc:4304",
+      "title": "Perfekcyjna niedoskonałość",
+      "url": "https://lubimyczytac.pl/ksiazka/4304/perfekcyjna-niedoskonalosc",
+      "pages": 392,
+      "lcId": 4304
+    },
+    {
+      "key": "lc:4368326",
+      "title": "Gen. Ukryta historia",
+      "url": "https://lubimyczytac.pl/ksiazka/4368326/gen-ukryta-historia",
+      "pages": 600,
+      "lcId": 4368326
+    },
+    {
+      "key": "lc:4808046",
+      "title": "Koniec śmierci",
+      "url": "https://lubimyczytac.pl/ksiazka/4808046/koniec-smierci",
+      "pages": 840,
+      "lcId": 4808046
+    },
+    {
+      "key": "lc:4871623",
+      "title": "Czarne słońce",
+      "url": "https://lubimyczytac.pl/ksiazka/4871623/czarne-slonce",
+      "pages": 509,
+      "lcId": 4871623
+    },
+    {
+      "key": "lc:73679",
+      "title": "120 dni Sodomy czyli Szkoła libertynizmu",
+      "url": "https://lubimyczytac.pl/ksiazka/73679/120-dni-sodomy-czyli-szkola-libertynizmu",
+      "pages": 437,
+      "lcId": 73679
+    },
+    {
+      "key": "lc:4987110",
+      "title": "Dobre wychowanie",
+      "url": "https://lubimyczytac.pl/ksiazka/4987110/dobre-wychowanie",
+      "pages": 368,
+      "lcId": 4987110
+    },
+    {
+      "key": "lc:4991171",
+      "title": "Alkoholowe dzieje Polski czasy PRL-U",
+      "url": "https://lubimyczytac.pl/ksiazka/4991171/alkoholowe-dzieje-polski-czasy-prl-u",
+      "pages": 700,
+      "lcId": 4991171
+    },
+    {
+      "key": "lc:4965296",
+      "title": "Jak zmienić swój umysł?. Czego nowe badania nad psychodelikami uczą nas o świadomości, umieraniu, uzależnieniu, depresji i transcendencji",
+      "url": "https://lubimyczytac.pl/ksiazka/4965296/jak-zmienic-swoj-umysl-czego-nowe-badania-nad-psychodelikami-ucza-nas-o-swiadomosci-umieraniu-uz",
+      "pages": 462,
+      "lcId": 4965296
+    },
+    {
+      "key": "lc:291636",
+      "title": "Shantaram",
+      "url": "https://lubimyczytac.pl/ksiazka/291636/shantaram",
+      "pages": 800,
+      "lcId": 291636
+    },
+    {
+      "key": "lc:4968604",
+      "title": "Zapaść. Reportaże z mniejszych miast",
+      "url": "https://lubimyczytac.pl/ksiazka/4968604/zapasc-reportaze-z-mniejszych-miast",
+      "pages": 256,
+      "lcId": 4968604
+    },
+    {
+      "key": "lc:4949256",
+      "title": "Zachowuj się. Jak biologia wydobywa z ludzi to, co najgorsze, i to, co najlepsze",
+      "url": "https://lubimyczytac.pl/ksiazka/4949256/zachowuj-sie-jak-biologia-wydobywa-z-ludzi-to-co-najgorsze-i-to-co-najlepsze",
+      "pages": 1008,
+      "lcId": 4949256
+    },
+    {
+      "key": "lc:4917967",
+      "title": "Kraj nie dla wszystkich. O szwedzkim nacjonalizmie",
+      "url": "https://lubimyczytac.pl/ksiazka/4917967/kraj-nie-dla-wszystkich-o-szwedzkim-nacjonalizmie",
+      "pages": 288,
+      "lcId": 4917967
+    },
+    {
+      "key": "lc:4844814",
+      "title": "Enzo Ferrari. Wizjoner z Maranello",
+      "url": "https://lubimyczytac.pl/ksiazka/4844814/enzo-ferrari-wizjoner-z-maranello",
+      "pages": 256,
+      "lcId": 4844814
+    },
+    {
+      "key": "lc:4878979",
+      "title": "Śniadanie mistrzów",
+      "url": "https://lubimyczytac.pl/ksiazka/4878979/sniadanie-mistrzow",
+      "pages": 336,
+      "lcId": 4878979
+    },
+    {
+      "key": "lc:4511839",
+      "title": "Mali bogowie. O znieczulicy polskich lekarzy",
+      "url": "https://lubimyczytac.pl/ksiazka/4511839/mali-bogowie-o-znieczulicy-polskich-lekarzy",
+      "pages": 296,
+      "lcId": 4511839
+    },
+    {
+      "key": "lc:4810822",
+      "title": "Baśń o wężowym sercu albo wtóre słowo o Jakóbie Szeli",
+      "url": "https://lubimyczytac.pl/ksiazka/4810822/basn-o-wezowym-sercu-albo-wtore-slowo-o-jakobie-szeli",
+      "pages": 460,
+      "lcId": 4810822
+    },
+    {
+      "key": "lc:82739",
+      "title": "Prowadzący umarłych. Opowieści prawdziwe. Chiny z perspektywy nizin społecznych",
+      "url": "https://lubimyczytac.pl/ksiazka/82739/prowadzacy-umarlych-opowiesci-prawdziwe-chiny-z-perspektywy-nizin-spolecznych",
+      "pages": 376,
+      "lcId": 82739
+    },
+    {
+      "key": "lc:4962716",
+      "title": "Jak człowiek staje się mordercą. Mroczne opowieści psychiatry sądowego",
+      "url": "https://lubimyczytac.pl/ksiazka/4962716/jak-czlowiek-staje-sie-morderca-mroczne-opowiesci-psychiatry-sadowego",
+      "pages": 584,
+      "lcId": 4962716
+    },
+    {
+      "key": "lc:4332",
+      "title": "Lód",
+      "url": "https://lubimyczytac.pl/ksiazka/4332/lod",
+      "pages": 1054,
+      "lcId": 4332
+    },
+    {
+      "key": "lc:4881543",
+      "title": "Oko świata",
+      "url": "https://lubimyczytac.pl/ksiazka/4881543/oko-swiata",
+      "pages": 956,
+      "lcId": 4881543
+    },
+    {
+      "key": "lc:253676",
+      "title": "7EW",
+      "url": "https://lubimyczytac.pl/ksiazka/253676/7ew",
+      "pages": 832,
+      "lcId": 253676
+    },
+    {
+      "key": "lc:4856006",
+      "title": "Mechanik. Kulisy padoku F1 i tajemnice rywalizacji",
+      "url": "https://lubimyczytac.pl/ksiazka/4856006/mechanik-kulisy-padoku-f1-i-tajemnice-rywalizacji",
+      "pages": 320,
+      "lcId": 4856006
+    },
+    {
+      "key": "lc:29091",
+      "title": "Letnia noc",
+      "url": "https://lubimyczytac.pl/ksiazka/29091/letnia-noc",
+      "pages": 636,
+      "lcId": 29091
+    },
+    {
+      "key": "lc:257882",
+      "title": "Chłopiec z latawcem",
+      "url": "https://lubimyczytac.pl/ksiazka/257882/chlopiec-z-latawcem",
+      "pages": 416,
+      "lcId": 257882
+    },
+    {
+      "key": "lc:15115",
+      "title": "Inteligencja emocjonalna",
+      "url": "https://lubimyczytac.pl/ksiazka/15115/inteligencja-emocjonalna",
+      "pages": 528,
+      "lcId": 15115
+    },
+    {
+      "key": "lc:4858731",
+      "title": "Chrobot",
+      "url": "https://lubimyczytac.pl/ksiazka/4858731/chrobot-zycie-najzwyklejszych-ludzi-swiata",
+      "pages": 450,
+      "lcId": 4858731
+    },
+    {
+      "key": "lc:4806092",
+      "title": "Otoczeni przez idiotów",
+      "url": "https://lubimyczytac.pl/ksiazka/4806092/otoczeni-przez-idiotow",
+      "pages": 288,
+      "lcId": 4806092
+    },
+    {
+      "key": "lc:4987255",
+      "title": "Hrabia Monte Christo",
+      "url": "https://lubimyczytac.pl/ksiazka/4987255/hrabia-monte-christo",
+      "pages": 944,
+      "lcId": 4987255
+    },
+    {
+      "key": "lc:4860248",
+      "title": "Zdrowaś mario. Reportaże o medycznej marihuanie",
+      "url": "https://lubimyczytac.pl/ksiazka/4860248/zdrowas-mario-reportaze-o-medycznej-marihuanie",
+      "pages": 270,
+      "lcId": 4860248
+    },
+    {
+      "key": "lc:4864254",
+      "title": "Metro 2033",
+      "url": "https://lubimyczytac.pl/ksiazka/4864254/metro-2033",
+      "pages": 578,
+      "lcId": 4864254
+    },
+    {
+      "key": "lc:4970275",
+      "title": "Sandworm",
+      "url": "https://lubimyczytac.pl/ksiazka/4970275/sandworm",
+      "pages": 400,
+      "lcId": 4970275
+    },
+    {
+      "key": "lc:5055570",
+      "title": "O mułach i ludziach. Dzieciństwo w Georgii",
+      "url": "https://lubimyczytac.pl/ksiazka/5055570/o-mulach-i-ludziach-dziecinstwo-w-georgii",
+      "pages": 192,
+      "lcId": 5055570
+    },
+    {
+      "key": "lc:4804059",
+      "title": "Jak Zawsze",
+      "url": "https://lubimyczytac.pl/ksiazka/4804059/jak-zawsze",
+      "pages": 480,
+      "lcId": 4804059
+    },
+    {
+      "key": "lc:135091",
+      "title": "Puszczalscy z zasadami",
+      "url": "https://lubimyczytac.pl/ksiazka/135091/puszczalscy-z-zasadami",
+      "pages": 378,
+      "lcId": 135091
+    },
+    {
+      "key": "lc:4964704",
+      "title": "Wszystko za życie",
+      "url": "https://lubimyczytac.pl/ksiazka/4964704/wszystko-za-zycie",
+      "pages": 232,
+      "lcId": 4964704
+    },
+    {
+      "key": "lc:5014374",
+      "title": "Ucieczka z Chinatown",
+      "url": "https://lubimyczytac.pl/ksiazka/5014374/ucieczka-z-chinatown",
+      "pages": 250,
+      "lcId": 5014374
+    },
+    {
+      "key": "lc:4811054",
+      "title": "Znikająca łyżeczka. Dziwne opowieści chemicznej treści",
+      "url": "https://lubimyczytac.pl/ksiazka/4811054/znikajaca-lyzeczka-dziwne-opowiesci-chemicznej-tresci",
+      "pages": 390,
+      "lcId": 4811054
+    },
+    {
+      "key": "lc:4910992",
+      "title": "Król darknetu. Polowanie na genialnego cyberprzestępcę",
+      "url": "https://lubimyczytac.pl/ksiazka/4910992/krol-darknetu-polowanie-na-genialnego-cyberprzestepce",
+      "pages": 376,
+      "lcId": 4910992
+    },
+    {
+      "key": "lc:4451510",
+      "title": "Rejwach",
+      "url": "https://lubimyczytac.pl/ksiazka/4451510/rejwach",
+      "pages": 132,
+      "lcId": 4451510
+    },
+    {
+      "key": "lc:5020227",
+      "title": "Krótka historia filozofii",
+      "url": "https://lubimyczytac.pl/ksiazka/5020227/krotka-historia-filozofii",
+      "pages": 256,
+      "lcId": 5020227
+    },
+    {
+      "key": "lc:5025494",
+      "title": "Schronisko, które przestało istnieć",
+      "url": "https://lubimyczytac.pl/ksiazka/5025494/schronisko-ktore-przestalo-istniec",
+      "pages": 368,
+      "lcId": 5025494
+    },
+    {
+      "key": "lc:4908994",
+      "title": "Ciemność",
+      "url": "https://lubimyczytac.pl/ksiazka/4908994/ciemnosc",
+      "pages": 268,
+      "lcId": 4908994
+    },
+    {
+      "key": "lc:4001",
+      "title": "Narrenturm",
+      "url": "https://lubimyczytac.pl/ksiazka/4001/narrenturm",
+      "pages": 593,
+      "lcId": 4001
+    },
+    {
+      "key": "lc:191164",
+      "title": "Dobre miejsce do umierania",
+      "url": "https://lubimyczytac.pl/ksiazka/191164/dobre-miejsce-do-umierania",
+      "pages": 344,
+      "lcId": 191164
+    },
+    {
+      "key": "lc:4914587",
+      "title": "Wydech",
+      "url": "https://lubimyczytac.pl/ksiazka/4914587/wydech",
+      "pages": 395,
+      "lcId": 4914587
+    },
+    {
+      "key": "lc:178740",
+      "title": "Nowy Jork. Od Mannahatty do Ground Zero",
+      "url": "https://lubimyczytac.pl/ksiazka/178740/nowy-jork-od-mannahatty-do-ground-zero",
+      "pages": 400,
+      "lcId": 178740
+    },
+    {
+      "key": "lc:5012545",
+      "title": "Migot. Z końca Grenlandii",
+      "url": "https://lubimyczytac.pl/ksiazka/5012545/migot-z-kranca-grenlandii",
+      "pages": 256,
+      "lcId": 5012545
+    },
+    {
+      "key": "lc:274606",
+      "title": "Esencjalista",
+      "url": "https://lubimyczytac.pl/ksiazka/274606/esencjalista",
+      "pages": 288,
+      "lcId": 274606
+    },
+    {
+      "key": "lc:236175",
+      "title": "Drach",
+      "url": "https://lubimyczytac.pl/ksiazka/236175/drach",
+      "pages": 400,
+      "lcId": 236175
+    },
+    {
+      "key": "lc:75750",
+      "title": "Cafe Museum",
+      "url": "https://lubimyczytac.pl/ksiazka/75750/cafe-museum",
+      "pages": 184,
+      "lcId": 75750
+    },
+    {
+      "key": "lc:4905356",
+      "title": "Nasze imię Legion, nasze imię Bob",
+      "url": "https://lubimyczytac.pl/ksiazka/4905356/nasze-imie-legion-nasze-imie-bob",
+      "pages": 384,
+      "lcId": 4905356
+    },
+    {
+      "key": "lc:73555",
+      "title": "Metro 2034",
+      "url": "https://lubimyczytac.pl/ksiazka/73555/metro-2034",
+      "pages": 488,
+      "lcId": 73555
+    },
+    {
+      "key": "lc:5085671",
+      "title": "Historia Czytania",
+      "url": "https://lubimyczytac.pl/ksiazka/5085671/historia-czytania",
+      "pages": 450,
+      "lcId": 5085671
+    },
+    {
+      "key": "lc:5021417",
+      "title": "Krótka historia religii",
+      "url": "https://lubimyczytac.pl/ksiazka/5021417/krotka-historia-religii",
+      "pages": 278,
+      "lcId": 5021417
+    },
+    {
+      "key": "lc:5076430",
+      "title": "Kameliowy sklep papierniczy",
+      "url": "https://lubimyczytac.pl/ksiazka/5076430/kameliowy-sklep-papierniczy",
+      "pages": 248,
+      "lcId": 5076430
+    },
+    {
+      "key": "lc:47771",
+      "title": "Łuk triumfalny",
+      "url": "https://lubimyczytac.pl/ksiazka/47771/luk-triumfalny",
+      "pages": 496,
+      "lcId": 47771
+    },
+    {
+      "key": "lc:5025585",
+      "title": "Skąd",
+      "url": "https://lubimyczytac.pl/ksiazka/5025585/skad",
+      "pages": 376,
+      "lcId": 5025585
+    },
+    {
+      "key": "lc:5068091",
+      "title": "Wszystkie wskaźniki czerwone. Sztuczny stan",
+      "url": "https://lubimyczytac.pl/ksiazka/5068091/wszystkie-wskazniki-czerwone-sztuczny-stan",
+      "pages": 218,
+      "lcId": 5068091
+    },
+    {
+      "key": "lc:134067",
+      "title": "Bajki robotów",
+      "url": "https://lubimyczytac.pl/ksiazka/134067/bajki-robotow",
+      "pages": 224,
+      "lcId": 134067
+    },
+    {
+      "key": "lc:4969515",
+      "title": "Sex, disco i kasety video. Polska lat 90",
+      "url": "https://lubimyczytac.pl/ksiazka/4969515/sex-disco-i-kasety-video-polska-lat-90",
+      "pages": 336,
+      "lcId": 4969515
+    },
+    {
+      "key": "lc:301613",
+      "title": "Cień góry",
+      "url": "https://lubimyczytac.pl/ksiazka/301613/cien-gory",
+      "pages": 800,
+      "lcId": 301613
+    },
+    {
+      "key": "lc:5079993",
+      "title": "Drugie imię. Septologia I-II",
+      "url": "https://lubimyczytac.pl/ksiazka/5079993/drugie-imie-septologia-i-ii",
+      "pages": 292,
+      "lcId": 5079993
+    },
+    {
+      "key": "lc:293177",
+      "title": "Głód",
+      "url": "https://lubimyczytac.pl/ksiazka/293177/glod",
+      "pages": 716,
+      "lcId": 293177
+    },
+    {
+      "key": "lc:4224812",
+      "title": "Heban",
+      "url": "https://lubimyczytac.pl/ksiazka/4224812/heban",
+      "pages": 344,
+      "lcId": 4224812
+    },
+    {
+      "key": "lc:5091460",
+      "title": "Informacja zwrotna",
+      "url": "https://lubimyczytac.pl/ksiazka/5091460/informacja-zwrotna",
+      "pages": 528,
+      "lcId": 5091460
+    },
+    {
+      "key": "lc:291216",
+      "title": "Moby-Dick",
+      "url": "https://lubimyczytac.pl/ksiazka/291216/moby-dick",
+      "pages": 720,
+      "lcId": 291216
+    },
+    {
+      "key": "lc:5067610",
+      "title": "Wszyscy tak jeżdżą",
+      "url": "https://lubimyczytac.pl/ksiazka/5067610/wszyscy-tak-jezdza",
+      "pages": 392,
+      "lcId": 5067610
+    },
+    {
+      "key": "lc:49585",
+      "title": "Krwawy południk",
+      "url": "https://lubimyczytac.pl/ksiazka/49585/krwawy-poludnik",
+      "pages": 444,
+      "lcId": 49585
+    },
+    {
+      "key": "lc:5124728",
+      "title": "Cześć pracy. O kulturze zap***dolu",
+      "url": "https://lubimyczytac.pl/ksiazka/5124728/czesc-pracy-o-kulturze-zap-dolu",
+      "pages": 320,
+      "lcId": 5124728
+    },
+    {
+      "key": "lc:5066891",
+      "title": "Pszczoły. Krótki lot w głąb niezwykłych umysłów",
+      "url": "https://lubimyczytac.pl/ksiazka/5066891/pszczoly-krotki-lot-w-glab-niezwyklych-umyslow",
+      "pages": 368,
+      "lcId": 5066891
+    },
+    {
+      "key": "lc:5109767",
+      "title": "Silos",
+      "url": "https://lubimyczytac.pl/ksiazka/5109767/silos",
+      "pages": 624,
+      "lcId": 5109767
+    },
+    {
+      "key": "lc:4860953",
+      "title": "Krew, pot i piksele. Chwalebne i niepokojące opowieści o tym, jak robi się gry",
+      "url": "https://lubimyczytac.pl/ksiazka/4860953/krew-pot-i-piksele-chwalebne-i-niepokojace-opowiesci-o-tym-jak-robi-sie-gry",
+      "pages": 336,
+      "lcId": 4860953
+    },
+    {
+      "key": "lc:4939505",
+      "title": "Wędrująca Ziemia",
+      "url": "https://lubimyczytac.pl/ksiazka/4939505/wedrujaca-ziemia",
+      "pages": 496,
+      "lcId": 4939505
+    },
+    {
+      "key": "lc:5124940",
+      "title": "Masz się łasić. Mobbing w Polsce",
+      "url": "https://lubimyczytac.pl/ksiazka/5124940/masz-sie-lasic-mobbing-w-polsce",
+      "pages": 248,
+      "lcId": 5124940
+    },
+    {
+      "key": "lc:239509",
+      "title": "Teoretyczne minimum. Co musisz wiedzieć, żeby zacząć zajmować się fizyką",
+      "url": "https://lubimyczytac.pl/ksiazka/239509/teoretyczne-minimum-co-musisz-wiedziec-zeby-zaczac-zajmowac-sie-fizyka",
+      "pages": 256,
+      "lcId": 239509
+    },
+    {
+      "key": "lc:4864257",
+      "title": "Metro 2035",
+      "url": "https://lubimyczytac.pl/ksiazka/4864257/metro-2035",
+      "pages": 540,
+      "lcId": 4864257
+    },
+    {
+      "key": "lc:4987810",
+      "title": "Wieczny Grunwald",
+      "url": "https://lubimyczytac.pl/ksiazka/4987810/wieczny-grunwald",
+      "pages": 272,
+      "lcId": 4987810
+    },
+    {
+      "key": "lc:4848757",
+      "title": "Kult",
+      "url": "https://lubimyczytac.pl/ksiazka/4848757/kult",
+      "pages": 480,
+      "lcId": 4848757
+    },
+    {
+      "key": "lc:5168033",
+      "title": "Rozdroże Kruków (Wiedźmin)",
+      "url": "https://lubimyczytac.pl/ksiazka/5168033/rozdroze-krukow",
+      "pages": 292,
+      "lcId": 5168033
+    },
+    {
+      "key": "lc:5115422",
+      "title": "Szachownica flamandzka",
+      "url": "https://lubimyczytac.pl/ksiazka/5115422/szachownica-flamandzka",
+      "pages": 418,
+      "lcId": 5115422
+    },
+    {
+      "key": "lc:4459056",
+      "title": "Nieznośna lekkość bytu",
+      "url": "https://lubimyczytac.pl/ksiazka/4459056/nieznosna-lekkosc-bytu",
+      "pages": 352,
+      "lcId": 4459056
+    },
+    {
+      "key": "lc:4811730",
+      "title": "Szpony i Kły (Wiedźmin)",
+      "url": "https://lubimyczytac.pl/ksiazka/4811730/wiedzmin-szpony-i-kly",
+      "pages": 400,
+      "lcId": 4811730
+    },
+    {
+      "key": "lc:5124518",
+      "title": "24 godziny w starożytnym Rzymie",
+      "url": "https://lubimyczytac.pl/ksiazka/5124518/24-godziny-w-starozytnym-rzymie-zycie-codzienne-oczami-mieszkancow-od-niewolnika-do-cesarza-od",
+      "pages": 288,
+      "lcId": 5124518
+    },
+    {
+      "key": "lc:4896952",
+      "title": "Droga Królów",
+      "url": "https://lubimyczytac.pl/ksiazka/4896952/droga-krolow",
+      "pages": 1136,
+      "lcId": 4896952
+    },
+    {
+      "key": "lc:5122150",
+      "title": "Herbata z polonem. Najsłynniejsze otrucia w historii",
+      "url": "https://lubimyczytac.pl/ksiazka/5122150/herbata-z-polonem-najslynniejsze-otrucia-w-historii",
+      "pages": 368,
+      "lcId": 5122150
+    },
+    {
+      "key": "lc:237974",
+      "title": "Czasomierze",
+      "url": "https://lubimyczytac.pl/ksiazka/237974/czasomierze",
+      "pages": 688,
+      "lcId": 237974
+    },
+    {
+      "key": "lc:5017632",
+      "title": "A Thousand Splendid Suns",
+      "url": "https://lubimyczytac.pl/ksiazka/5017632/a-thousand-splendid-suns",
+      "pages": 432,
+      "lcId": 5017632
+    },
+    {
+      "key": "lc:5109924",
+      "title": "Wiatr",
+      "url": "https://lubimyczytac.pl/ksiazka/5109924/wiatr",
+      "pages": 248,
+      "lcId": 5109924
+    },
+    {
+      "key": "lc:4878905",
+      "title": "Zew Cthulhu",
+      "url": "https://lubimyczytac.pl/ksiazka/4878905/zew-cthulhu",
+      "pages": 301,
+      "lcId": 4878905
+    },
+    {
+      "key": "lc:5059257",
+      "title": "Straszliwa zieleń",
+      "url": "https://lubimyczytac.pl/ksiazka/5059257/straszliwa-zielen",
+      "pages": 232,
+      "lcId": 5059257
+    },
+    {
+      "key": "lc:49593",
+      "title": "Lęk i odraza w Las Vegas",
+      "url": "https://lubimyczytac.pl/ksiazka/49593/lek-i-odraza-w-las-vegas",
+      "pages": 272,
+      "lcId": 49593
+    },
+    {
+      "key": "lc:4967360",
+      "title": "Atlas zbuntowany",
+      "url": "https://lubimyczytac.pl/ksiazka/4967360/atlas-zbuntowany",
+      "pages": 1176,
+      "lcId": 4967360
+    },
+    {
+      "key": "lc:5124027",
+      "title": "Diablak",
+      "url": "https://lubimyczytac.pl/ksiazka/5124027/diablak",
+      "pages": 360,
+      "lcId": 5124027
+    },
+    {
+      "key": "lc:4929173",
+      "title": "Gdyż jest nas wielu",
+      "url": "https://lubimyczytac.pl/ksiazka/4929173/gdyz-jest-nas-wielu",
+      "pages": 384,
+      "lcId": 4929173
+    },
+    {
+      "key": "lc:4843623",
+      "title": "Kroniki kota podróżnika",
+      "url": "https://lubimyczytac.pl/ksiazka/4843623/kroniki-kota-podroznika",
+      "pages": 240,
+      "lcId": 4843623
+    },
+    {
+      "key": "lc:5130473",
+      "title": "Dom Starlingów",
+      "url": "https://lubimyczytac.pl/ksiazka/5130473/dom-starlingow",
+      "pages": 448,
+      "lcId": 5130473
+    },
+    {
+      "key": "lc:5111877",
+      "title": "Wszystko mam bardziej. Życie w spektrum autyzmu",
+      "url": "https://lubimyczytac.pl/ksiazka/5111877/wszystko-mam-bardziej-zycie-w-spektrum-autyzmu",
+      "pages": 248,
+      "lcId": 5111877
+    },
+    {
+      "key": "lc:5131218",
+      "title": "1984",
+      "url": "https://lubimyczytac.pl/ksiazka/5131218/1984",
+      "pages": 432,
+      "lcId": 5131218
+    },
+    {
+      "key": "lc:5095874",
+      "title": "Ja, która nie poznałam mężczyzn",
+      "url": "https://lubimyczytac.pl/ksiazka/5095874/ja-ktora-nie-poznalam-mezczyzn",
+      "pages": 181,
+      "lcId": 5095874
+    },
+    {
+      "key": "lc:5110291",
+      "title": "My, skrajnie otyli",
+      "url": "https://lubimyczytac.pl/ksiazka/5110291/my-skrajnie-otyli",
+      "pages": 288,
+      "lcId": 5110291
+    },
+    {
+      "key": "lc:5075978",
+      "title": "A co ciebie obchodzi, co myślą inni? Dalsze przypadki ciekawego człowieka",
+      "url": "https://lubimyczytac.pl/ksiazka/5075978/a-co-ciebie-obchodzi-co-mysla-inni-dalsze-przypadki-ciekawego-czlowieka",
+      "pages": 299,
+      "lcId": 5075978
+    },
+    {
+      "key": "lc:5052028",
+      "title": "Planeta małp",
+      "url": "https://lubimyczytac.pl/ksiazka/5052028/planeta-malp",
+      "pages": 250,
+      "lcId": 5052028
+    },
+    {
+      "key": "lc:5103316",
+      "title": "Skarby Ziemi. Sześć surowców, które zadecydują o przetrwaniu naszej cywilizacji",
+      "url": "https://lubimyczytac.pl/ksiazka/5103316/skarby-ziemi-szesc-surowcow-ktore-zadecyduja-o-przetrwaniu-naszej-cywilizacji",
+      "pages": 464,
+      "lcId": 5103316
+    },
+    {
+      "key": "lc:4933946",
+      "title": "Zła Krew",
+      "url": "https://lubimyczytac.pl/ksiazka/4933946/zla-krew",
+      "pages": 416,
+      "lcId": 4933946
+    },
+    {
+      "key": "lc:4943457",
+      "title": "W cieniu Everestu",
+      "url": "https://lubimyczytac.pl/ksiazka/4943457/w-cieniu-everestu",
+      "pages": 416,
+      "lcId": 4943457
+    },
+    {
+      "key": "lc:5134467",
+      "title": "Pieśń komórek. Nowa epoka medycyny",
+      "url": "https://lubimyczytac.pl/ksiazka/5134467/piesn-komorek-nowa-epoka-medycyny",
+      "pages": 528,
+      "lcId": 5134467
+    },
+    {
+      "key": "lc:148873",
+      "title": "Dajcie im popływać",
+      "url": "https://lubimyczytac.pl/ksiazka/148873/dajcie-im-poplywac",
+      "pages": 180,
+      "lcId": 148873
+    },
+    {
+      "key": "lc:4955540",
+      "title": "Wampir z zagłębia",
+      "url": "https://lubimyczytac.pl/ksiazka/4955540/wampir-z-zaglebia",
+      "pages": 540,
+      "lcId": 4955540
+    },
+    {
+      "key": "lc:4970629",
+      "title": "Boży Bojownicy",
+      "url": "https://lubimyczytac.pl/ksiazka/4970629/bozy-bojownicy",
+      "pages": 635,
+      "lcId": 4970629
+    },
+    {
+      "key": "t:strony =",
+      "title": "Strony =",
+      "url": null,
+      "pages": 5784,
+      "lcId": null
+    },
+    {
+      "key": "lc:4945703",
+      "title": "Wszystkie te światy",
+      "url": "https://lubimyczytac.pl/ksiazka/4945703/wszystkie-te-swiaty",
+      "pages": 289,
+      "lcId": 4945703
+    },
+    {
+      "key": "lc:5129443",
+      "title": "Wojna nuklearna. Możliwy scenariusz",
+      "url": "https://lubimyczytac.pl/ksiazka/5129443/wojna-nuklearna-mozliwy-scenariusz",
+      "pages": 500,
+      "lcId": 5129443
+    },
+    {
+      "key": "lc:4970632",
+      "title": "Lux perpetua",
+      "url": "https://lubimyczytac.pl/ksiazka/4970632/lux-perpetua",
+      "pages": 606,
+      "lcId": 4970632
+    },
+    {
+      "key": "lc:5115065",
+      "title": "Miasto permutacji",
+      "url": "https://lubimyczytac.pl/ksiazka/5115065/miasto-permutacji",
+      "pages": 463,
+      "lcId": 5115065
+    },
+    {
+      "key": "lc:79777",
+      "title": "Fioletowy hibiskus",
+      "url": "https://lubimyczytac.pl/ksiazka/79777/fioletowy-hibiskus",
+      "pages": 315,
+      "lcId": 79777
+    },
+    {
+      "key": "lc:5169376",
+      "title": "Katastrofa Challengera",
+      "url": "https://lubimyczytac.pl/ksiazka/5169376/katastrofa-challengera-historia-bohaterstwa-i-dramatu-na-krawedzi-kosmosu",
+      "pages": 624,
+      "lcId": 5169376
+    },
+    {
+      "key": "lc:5184867",
+      "title": "Gdzie zakopano topór",
+      "url": "https://lubimyczytac.pl/ksiazka/5184867/gdzie-zakopano-topor",
+      "pages": 232,
+      "lcId": 5184867
+    },
+    {
+      "key": "lc:4986936",
+      "title": "Apartament w hotelu Wojna. Reportaż z Donbasu",
+      "url": "https://lubimyczytac.pl/ksiazka/4986936/apartament-w-hotelu-wojna-reportaz-z-donbasu",
+      "pages": 432,
+      "lcId": 4986936
+    },
+    {
+      "key": "lc:5180338",
+      "title": "Krótka historia USA",
+      "url": "https://lubimyczytac.pl/ksiazka/5180338/krotka-historia-usa",
+      "pages": 392,
+      "lcId": 5180338
+    },
+    {
+      "key": "lc:5029090",
+      "title": "Koniec Wieczności",
+      "url": "https://lubimyczytac.pl/ksiazka/5029090/koniec-wiecznosci",
+      "pages": 264,
+      "lcId": 5029090
+    },
+    {
+      "key": "lc:4849600",
+      "title": "Dorosłe dzieci niedojrzałych emocjonalnie rodziców. Jak uwolnić się od przeszłości i zacząć nowe życie",
+      "url": "https://lubimyczytac.pl/ksiazka/4849600/dorosle-dzieci-niedojrzalych-emocjonalnie-rodzicow-jak-uwolnic-sie-od-przeszlosci-i-zaczac-nowe-zycie",
+      "pages": 256,
+      "lcId": 4849600
+    },
+    {
+      "key": "lc:4965583",
+      "title": "Jedyny samolot na niebie",
+      "url": "https://lubimyczytac.pl/ksiazka/4965583/jedyny-samolot-na-niebie-historia-mowiona-zamachow-z-11-wrzesnia",
+      "pages": 656,
+      "lcId": 4965583
+    },
+    {
+      "key": "lc:5134927",
+      "title": "Wróg",
+      "url": "https://lubimyczytac.pl/ksiazka/5134927/wrog",
+      "pages": 416,
+      "lcId": 5134927
+    },
+    {
+      "key": "lc:4991165",
+      "title": "Leniwy umysł. Dlaczego warto ciągle weryfikować swoje poglądy i decyzje",
+      "url": "https://lubimyczytac.pl/ksiazka/4991165/leniwy-umysl-dlaczego-warto-ciagle-weryfikowac-swoje-poglady-i-decyzje",
+      "pages": 358,
+      "lcId": 4991165
+    },
+    {
+      "key": "lc:5116335",
+      "title": "Holly",
+      "url": "https://lubimyczytac.pl/ksiazka/5116335/holly",
+      "pages": 560,
+      "lcId": 5116335
+    },
+    {
+      "key": "lc:5188657",
+      "title": "Odkryj dzieła inżynierów. Ilustrowany przewodnik terenowy po infrastrukturze technicznej",
+      "url": "https://lubimyczytac.pl/ksiazka/5188657/odkryj-dziela-inzynierow-ilustrowany-przewodnik-terenowy-po-infrastrukturze-technicznej",
+      "pages": 256,
+      "lcId": 5188657
+    },
+    {
+      "key": "lc:4983331",
+      "title": "Najszczęśliwszy człowiek na ziemi",
+      "url": "https://lubimyczytac.pl/ksiazka/4983331/najszczesliwszy-czlowiek-na-ziemi",
+      "pages": 240,
+      "lcId": 4983331
+    },
+    {
+      "key": "lc:5171535",
+      "title": "Kaput. Koniec niemieckiego cudu gospodarczego",
+      "url": "https://lubimyczytac.pl/ksiazka/5171535/kaput-koniec-niemieckiego-cudu-gospodarczego",
+      "pages": 224,
+      "lcId": 5171535
+    },
+    {
+      "key": "lc:5036477",
+      "title": "Na Zachodzie bez zmian",
+      "url": "https://lubimyczytac.pl/ksiazka/5036477/na-zachodzie-bez-zmian",
+      "pages": 192,
+      "lcId": 5036477
+    },
+    {
+      "key": "lc:4859913",
+      "title": "Nocny pociąg do Lizbony",
+      "url": "https://lubimyczytac.pl/ksiazka/4859913/nocny-pociag-do-lizbony",
+      "pages": 384,
+      "lcId": 4859913
+    },
+    {
+      "key": "lc:5169080",
+      "title": "Domowe biblioteki",
+      "url": "https://lubimyczytac.pl/ksiazka/5169080/domowe-biblioteki-reportaze-o-prywatnych-ksiegozbiorach",
+      "pages": 396,
+      "lcId": 5169080
+    },
+    {
+      "key": "lc:5108104",
+      "title": "Patodeweloperka. To nie jest kraj do mieszkania",
+      "url": "https://lubimyczytac.pl/ksiazka/5108104/patodeweloperka-to-nie-jest-kraj-do-mieszkania",
+      "pages": 352,
+      "lcId": 5108104
+    },
+    {
+      "key": "lc:5098202",
+      "title": "Ferrari. Człowiek i maszyna",
+      "url": "https://lubimyczytac.pl/ksiazka/5098202/ferrari-czlowiek-i-maszyna",
+      "pages": 656,
+      "lcId": 5098202
+    },
+    {
+      "key": "lc:5188094",
+      "title": "Wojna o śmieci. Globalne śledztwo w sprawie brudnego handlu twoimi odpadami",
+      "url": "https://lubimyczytac.pl/ksiazka/5188094/wojna-o-smieci-globalne-sledztwo-w-sprawie-brudnego-handlu-twoimi-odpadami",
+      "pages": 504,
+      "lcId": 5188094
+    },
+    {
+      "key": "lc:5129233",
+      "title": "Linia piasku. Konflikt, który ukształtował bliski wschód",
+      "url": "https://lubimyczytac.pl/ksiazka/5129233/linia-na-piasku",
+      "pages": 512,
+      "lcId": 5129233
+    },
+    {
+      "key": "lc:5056580",
+      "title": "Wędrówka tusz",
+      "url": "https://lubimyczytac.pl/ksiazka/5056580/wedrowka-tusz",
+      "pages": 312,
+      "lcId": 5056580
+    },
+    {
+      "key": "lc:151396",
+      "title": "Reportaże z warszawskiego getta",
+      "url": "https://lubimyczytac.pl/ksiazka/151396/reportaze-z-warszawskiego-getta",
+      "pages": 240,
+      "lcId": 151396
+    },
+    {
+      "key": "lc:4862791",
+      "title": "Miasto ślepców",
+      "url": "https://lubimyczytac.pl/ksiazka/4862791/miasto-slepcow",
+      "pages": 352,
+      "lcId": 4862791
+    },
+    {
+      "key": "lc:4224823",
+      "title": "Imperium",
+      "url": "https://lubimyczytac.pl/ksiazka/4224823/imperium",
+      "pages": 364,
+      "lcId": 4224823
+    },
+    {
+      "key": "lc:240169",
+      "title": "Starość aksolotla",
+      "url": "https://lubimyczytac.pl/ksiazka/240169/starosc-aksolotla",
+      "pages": 295,
+      "lcId": 240169
+    },
+    {
+      "key": "lc:228763",
+      "title": "Republika Piratów",
+      "url": "https://lubimyczytac.pl/ksiazka/228763/republika-piratow",
+      "pages": 384,
+      "lcId": 228763
+    },
+    {
+      "key": "lc:4945805",
+      "title": "Niebiańska rzeka",
+      "url": "https://lubimyczytac.pl/ksiazka/4945805/niebianska-rzeka",
+      "pages": 535,
+      "lcId": 4945805
+    },
+    {
+      "key": "t:\"+wszystkie te światy",
+      "title": "\"+Wszystkie te światy",
+      "url": null,
+      "pages": null,
+      "lcId": null
+    },
+    {
+      "key": "t:linia na piasku. konflikt, który ukształtował bliski wschód",
+      "title": "Linia na piasku. Konflikt, który ukształtował bliski wschód",
+      "url": null,
+      "pages": 512,
+      "lcId": null
+    },
+    {
+      "key": "t:migot. z krańca grenlandii",
+      "title": "Migot. Z krańca Grenlandii",
+      "url": null,
+      "pages": 256,
+      "lcId": null
+    },
+    {
+      "key": "t:ptasiek",
+      "title": "Ptasiek",
+      "url": null,
+      "pages": 320,
+      "lcId": null
+    },
+    {
+      "key": "t:dziewiętnaście minut",
+      "title": "Dziewiętnaście minut",
+      "url": null,
+      "pages": 672,
+      "lcId": null
+    },
+    {
+      "key": "t:bogaty ojciec, biedny ojciec",
+      "title": "Bogaty ojciec, biedny ojciec",
+      "url": null,
+      "pages": 238,
+      "lcId": null
+    }
+  ],
+  "yearBooks": [
+    {
+      "year": 2026,
+      "bookKey": "lc:4986936",
+      "position": 1,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:4939505",
+      "position": 2,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5108104",
+      "position": 3,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:4859913",
+      "position": 4,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5169376",
+      "position": 5,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:4964704",
+      "position": 6,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2026,
+      "bookKey": "t:linia na piasku. konflikt, który ukształtował bliski wschód",
+      "position": 7,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5115065",
+      "position": 8,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5129443",
+      "position": 9,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5134927",
+      "position": 10,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5180338",
+      "position": 11,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:49593",
+      "position": 12,
+      "month": null,
+      "reads": []
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:4945805",
+      "position": 13,
+      "month": null,
+      "reads": []
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5171535",
+      "position": 14,
+      "month": null,
+      "reads": []
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:4970632",
+      "position": 15,
+      "month": null,
+      "reads": []
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5115422",
+      "position": 1,
+      "month": "Styczeń",
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5111877",
+      "position": 2,
+      "month": "Styczeń / Luty",
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5168033",
+      "position": 3,
+      "month": "Luty / Marzec",
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:4810822",
+      "position": 4,
+      "month": "Marzec",
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5067610",
+      "position": 5,
+      "month": "Kwiecień",
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5017632",
+      "position": 6,
+      "month": "Kwiecień / Maj",
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:4929173",
+      "position": 7,
+      "month": "Maj",
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5124518",
+      "position": 8,
+      "month": "Maj/Czerwiec",
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:4864257",
+      "position": 9,
+      "month": "Czerwiec",
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5124940",
+      "position": 10,
+      "month": "Lipiec",
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:49585",
+      "position": 11,
+      "month": "Sierpień",
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5103316",
+      "position": 12,
+      "month": "Wrzesień",
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:4843623",
+      "position": 13,
+      "month": "Październik",
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:4878905",
+      "position": 14,
+      "month": "Listopad",
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:4970629",
+      "position": 15,
+      "month": "Grudzień",
+      "reads": [
+        "SCOOBY",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:47771",
+      "position": 1,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:134067",
+      "position": 2,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:291216",
+      "position": 3,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:5025585",
+      "position": 4,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:4224812",
+      "position": 5,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:5091460",
+      "position": 6,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:73555",
+      "position": 7,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:5085671",
+      "position": 8,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:4905356",
+      "position": 9,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:5076430",
+      "position": 10,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:5021417",
+      "position": 11,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:4001",
+      "position": 12,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:4864254",
+      "position": 1,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2023,
+      "bookKey": "t:migot. z krańca grenlandii",
+      "position": 2,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:5020227",
+      "position": 3,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:4910992",
+      "position": 4,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:4908994",
+      "position": 5,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:5014374",
+      "position": 6,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4878979",
+      "position": 1,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4511839",
+      "position": 2,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:257882",
+      "position": 3,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4806092",
+      "position": 4,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4987255",
+      "position": 5,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4858731",
+      "position": 6,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4871623",
+      "position": 7,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:15115",
+      "position": 8,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4856006",
+      "position": 9,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:291636",
+      "position": 10,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4968604",
+      "position": 11,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4962716",
+      "position": 12,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4808046",
+      "position": 13,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:4871303",
+      "position": 1,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:4805850",
+      "position": 2,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:4882986",
+      "position": 3,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:4304",
+      "position": 4,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2021,
+      "bookKey": "t:ptasiek",
+      "position": 5,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2021,
+      "bookKey": "t:dziewiętnaście minut",
+      "position": 6,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2021,
+      "bookKey": "t:bogaty ojciec, biedny ojciec",
+      "position": 7,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:4928183",
+      "position": 8,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:4931632",
+      "position": 9,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:124827",
+      "position": 10,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:4939813",
+      "position": 11,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:4704919",
+      "position": 12,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:170097",
+      "position": 1,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:4897078",
+      "position": 2,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:4233532",
+      "position": 3,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:4867395",
+      "position": 4,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:4871398",
+      "position": 5,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:4892513",
+      "position": 6,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:4860910",
+      "position": 7,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:4800034",
+      "position": 8,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:265114",
+      "position": 9,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:4813295",
+      "position": 10,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:4858281",
+      "position": 11,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:4877852",
+      "position": 12,
+      "month": null,
+      "reads": [
+        "SCOOBY",
+        "MINIS",
+        "BARTEK"
+      ]
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:4811054",
+      "position": 7,
+      "month": null,
+      "reads": []
+    }
+  ],
+  "suggestions": [
+    {
+      "year": 2020,
+      "bookKey": "lc:4860910",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:4858281",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:4897078",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:4867395",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:4233532",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:4892513",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:4800034",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:4822753",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:265114",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:37748",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:4871398",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:4813295",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:170097",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:4877852",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:4173413",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2020,
+      "bookKey": "lc:4092539",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:4704919",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:4931632",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:4805850",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:4853986",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:4882986",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:312930",
+      "proposedBy": "SCOOBY",
+      "vetoed": true
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:4871303",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:4939813",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:4928183",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:4921833",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:308501",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:4933594",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:4885764",
+      "proposedBy": "BARTEK",
+      "vetoed": true
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:4914717",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:54023",
+      "proposedBy": "SCOOBY",
+      "vetoed": true
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:124827",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:49846",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2021,
+      "bookKey": "lc:4304",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4368326",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4808046",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4871623",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:73679",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4987110",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4991171",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4965296",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:291636",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4968604",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4949256",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4917967",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4844814",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4878979",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4511839",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4810822",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:82739",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4962716",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4332",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4881543",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:253676",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4856006",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:29091",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:257882",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:15115",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4858731",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4806092",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2022,
+      "bookKey": "lc:4987255",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:4860248",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:4864254",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:4844814",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:4970275",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:5055570",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:4804059",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:135091",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:4964704",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:5014374",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:4811054",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:4910992",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:4451510",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:5020227",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:5025494",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:4908994",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:4001",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:191164",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:4914587",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:54023",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:178740",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:5012545",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:274606",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:236175",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2023,
+      "bookKey": "lc:75750",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:4905356",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:73555",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:5085671",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:5021417",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:5025494",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:5076430",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:47771",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:4001",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:5025585",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:5068091",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:134067",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:4969515",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:4811054",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:301613",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:5079993",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:293177",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:4224812",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:5091460",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2024,
+      "bookKey": "lc:291216",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5067610",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:49585",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5124728",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5066891",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5109767",
+      "proposedBy": "MINIS",
+      "vetoed": true
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:37748",
+      "proposedBy": "BARTEK",
+      "vetoed": true
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:4860953",
+      "proposedBy": "SCOOBY",
+      "vetoed": true
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:4939505",
+      "proposedBy": "MINIS",
+      "vetoed": true
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5124940",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:239509",
+      "proposedBy": "SCOOBY",
+      "vetoed": true
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:4864257",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:4987810",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:4848757",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5168033",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5115422",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:4459056",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:4811730",
+      "proposedBy": "MINIS",
+      "vetoed": true
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5124518",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:253676",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:4896952",
+      "proposedBy": "MINIS",
+      "vetoed": true
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5122150",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:237974",
+      "proposedBy": "SCOOBY",
+      "vetoed": true
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5017632",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5109924",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:4878905",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5059257",
+      "proposedBy": "MINIS",
+      "vetoed": true
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:4810822",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:49593",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:4967360",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5124027",
+      "proposedBy": "BARTEK",
+      "vetoed": true
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:4929173",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:4843623",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5130473",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5111877",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5131218",
+      "proposedBy": "MINIS",
+      "vetoed": true
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5095874",
+      "proposedBy": "BARTEK",
+      "vetoed": true
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5110291",
+      "proposedBy": "SCOOBY",
+      "vetoed": true
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5075978",
+      "proposedBy": "MINIS",
+      "vetoed": true
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5052028",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5103316",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:4933946",
+      "proposedBy": "MINIS",
+      "vetoed": true
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:4943457",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:5134467",
+      "proposedBy": "SCOOBY",
+      "vetoed": true
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:148873",
+      "proposedBy": "MINIS",
+      "vetoed": true
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:4955540",
+      "proposedBy": "BARTEK",
+      "vetoed": true
+    },
+    {
+      "year": 2025,
+      "bookKey": "lc:4970629",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2025,
+      "bookKey": "t:strony =",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:4945703",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5129443",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:4970632",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5115065",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:79777",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5169376",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5184867",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:4986936",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5180338",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5029090",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:4849600",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:4965583",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5134927",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:4991165",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5116335",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5188657",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:4983331",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5171535",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5036477",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:4859913",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5169080",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5108104",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:4964704",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5098202",
+      "proposedBy": "BARTEK",
+      "vetoed": true
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5188094",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5109767",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5129233",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:5056580",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:4939505",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:151396",
+      "proposedBy": "BARTEK",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:4862791",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:4224823",
+      "proposedBy": "MINIS",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:240169",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:228763",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:49593",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "lc:4945805",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    },
+    {
+      "year": 2026,
+      "bookKey": "t:\"+wszystkie te światy",
+      "proposedBy": "SCOOBY",
+      "vetoed": false
+    }
+  ]
+}

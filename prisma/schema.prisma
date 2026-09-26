@@ -1,0 +1,63 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../lib/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum Person {
+  SCOOBY
+  MINIS
+  BARTEK
+}
+
+model Book {
+  id          String       @id @default(uuid())
+  title       String
+  author      String?
+  url         String?
+  pages       Int?
+  coverUrl    String?
+  lcId        Int?         @unique
+  createdAt   DateTime     @default(now())
+  suggestions Suggestion[]
+  yearBooks   YearBook[]
+}
+
+model Suggestion {
+  id         String   @id @default(uuid())
+  year       Int
+  book       Book     @relation(fields: [bookId], references: [id], onDelete: Cascade)
+  bookId     String
+  proposedBy Person
+  vetoed     Boolean  @default(false)
+  createdAt  DateTime @default(now())
+
+  @@unique([year, bookId])
+  @@index([year])
+}
+
+model YearBook {
+  id        String   @id @default(uuid())
+  year      Int
+  book      Book     @relation(fields: [bookId], references: [id], onDelete: Cascade)
+  bookId    String
+  position  Int
+  month     String?
+  createdAt DateTime @default(now())
+  reads     Read[]
+
+  @@unique([year, bookId])
+  @@index([year])
+}
+
+model Read {
+  yearBook   YearBook @relation(fields: [yearBookId], references: [id], onDelete: Cascade)
+  yearBookId String
+  person     Person
+  readAt     DateTime @default(now())
+
+  @@id([yearBookId, person])
+}
