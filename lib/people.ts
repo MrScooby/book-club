@@ -15,9 +15,9 @@ export const PERSON_INITIAL: Record<Person, string> = {
 }
 
 export const PERSON_COLOR: Record<Person, string> = {
-  SCOOBY: '#fdebd0',
-  MINIS: '#dbe9f6',
-  BARTEK: '#e6def7'
+  SCOOBY: '#ffd6a5',
+  MINIS: '#b5d8f7',
+  BARTEK: '#cfbff5'
 }
 
 export function isPerson(value: unknown): value is Person {
