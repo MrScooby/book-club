@@ -8,7 +8,7 @@ import { Add, Block, PlaylistAdd, PlaylistAddCheck, DeleteOutlined } from '@mui/
 import type { Person } from '@/lib/generated/prisma/enums'
 import type { SuggestionItem } from '@/lib/types'
 import { PEOPLE, PERSON_NAME } from '@/lib/people'
-import { addToList, deleteSuggestion, toggleVeto } from '@/lib/actions'
+import { addToList, deleteSuggestion, toggleRejected } from '@/lib/actions'
 import AddSuggestionDialog from './AddSuggestionDialog'
 
 function SuggestionCard({ item }: { item: SuggestionItem }) {
@@ -21,14 +21,14 @@ function SuggestionCard({ item }: { item: SuggestionItem }) {
   }
 
   return (
-    <Card sx={{ opacity: item.vetoed ? 0.6 : 1, borderColor: item.onList ? 'secondary.main' : undefined }}>
+    <Card sx={{ opacity: item.rejected ? 0.6 : 1, borderColor: item.onList ? 'secondary.main' : undefined }}>
       <CardContent sx={{ display: 'flex', gap: 1.5, pb: '12px !important' }}>
         {book.coverUrl && (
           <Box component="img" src={book.coverUrl} alt="" loading="lazy"
             sx={{ width: 56, height: 84, objectFit: 'cover', borderRadius: 1, flexShrink: 0, bgcolor: 'grey.100' }} />
         )}
         <Box sx={{ flex: 1, minWidth: 0 }}>
-          <Typography sx={{ fontWeight: 600, lineHeight: 1.3, textDecoration: item.vetoed ? 'line-through' : 'none' }}>
+          <Typography sx={{ fontWeight: 600, lineHeight: 1.3, textDecoration: item.rejected ? 'line-through' : 'none' }}>
             {book.url ? (
               <Link href={book.url} target="_blank" rel="noreferrer" color="inherit" underline="hover">{book.title}</Link>
             ) : book.title}
@@ -38,17 +38,17 @@ function SuggestionCard({ item }: { item: SuggestionItem }) {
           </Typography>
           <Stack direction="row" spacing={0.5} useFlexGap sx={{ mt: 1, alignItems: 'center', flexWrap: 'wrap' }}>
             {item.onList && <Chip size="small" color="secondary" label="On the list" />}
-            {item.vetoed && <Chip size="small" color="error" variant="outlined" label="Vetoed" />}
+            {item.rejected && <Chip size="small" color="error" variant="outlined" label="Rejected" />}
             <Box sx={{ flex: 1 }} />
-            <Tooltip title={item.vetoed ? 'Remove veto' : 'Veto'}>
-              <IconButton size="small" color={item.vetoed ? 'error' : 'default'}
-                onClick={() => startTransition(async () => { await toggleVeto(item.id) })} aria-label="Veto">
+            <Tooltip title={item.rejected ? 'Undo reject' : 'Reject'}>
+              <IconButton size="small" color={item.rejected ? 'error' : 'default'}
+                onClick={() => startTransition(async () => { await toggleRejected(item.id) })} aria-label="Reject">
                 <Block fontSize="small" />
               </IconButton>
             </Tooltip>
             <Tooltip title={item.onList ? 'Already on the list' : 'Add to the list'}>
               <span>
-                <IconButton size="small" color="secondary" disabled={item.onList || item.vetoed}
+                <IconButton size="small" color="secondary" disabled={item.onList || item.rejected}
                   onClick={() => startTransition(async () => { await addToList(item.id) })} aria-label="Add to list">
                   {item.onList ? <PlaylistAddCheck fontSize="small" /> : <PlaylistAdd fontSize="small" />}
                 </IconButton>

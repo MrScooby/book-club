@@ -26,7 +26,6 @@ async function main() {
         year: yb.year,
         bookId: ids.get(yb.bookKey)!,
         position: yb.position,
-        month: yb.month,
         reads: { create: yb.reads.map((person) => ({ person: person as Person })) }
       }
     })
@@ -34,7 +33,7 @@ async function main() {
 
   for (const s of data.suggestions) {
     await db.suggestion.create({
-      data: { year: s.year, bookId: ids.get(s.bookKey)!, proposedBy: s.proposedBy as Person, vetoed: s.vetoed }
+      data: { year: s.year, bookId: ids.get(s.bookKey)!, proposedBy: s.proposedBy as Person, rejected: s.rejected }
     })
   }
 

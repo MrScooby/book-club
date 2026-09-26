@@ -14,7 +14,6 @@ export async function getYearList(year: number): Promise<YearBookItem[]> {
     id: r.id,
     year: r.year,
     position: r.position,
-    month: r.month,
     book: r.book,
     reads: r.reads.map((x) => x.person)
   }))
@@ -34,7 +33,7 @@ export async function getSuggestions(year: number): Promise<SuggestionItem[]> {
     id: r.id,
     year: r.year,
     proposedBy: r.proposedBy,
-    vetoed: r.vetoed,
+    rejected: r.rejected,
     onList: onList.has(r.bookId),
     book: r.book
   }))
@@ -53,14 +52,13 @@ export async function getYears(): Promise<number[]> {
 
 export async function getStats(): Promise<YearStats[]> {
   const rows = await db.yearBook.findMany({
-    include: { book: { select: { pages: true } }, reads: { select: { person: true } } }
+    include: { book: { select: { pages: true } } }
   })
   const byYear = new Map<number, YearStats>()
   for (const r of rows) {
-    const s = byYear.get(r.year) ?? { year: r.year, books: 0, readByAll: 0, pages: 0 }
+    const s = byYear.get(r.year) ?? { year: r.year, books: 0, pages: 0 }
     s.books += 1
     s.pages += r.book.pages ?? 0
-    if (r.reads.length === 3) s.readByAll += 1
     byYear.set(r.year, s)
   }
   return [...byYear.values()].sort((a, b) => b.year - a.year)

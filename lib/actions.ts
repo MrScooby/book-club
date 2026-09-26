@@ -33,10 +33,20 @@ export async function toggleRead(yearBookId: string, person: unknown): Promise<R
   return { ok: true }
 }
 
-export async function setMonth(yearBookId: string, month: unknown): Promise<Result> {
-  const value = clean(month, 40) || null
-  const yearBook = await db.yearBook.update({ where: { id: yearBookId }, data: { month: value } })
-  revalidateYear(yearBook.year)
+export async function moveOnList(yearBookId: string, direction: 'up' | 'down'): Promise<Result> {
+  const current = await db.yearBook.findUnique({ where: { id: yearBookId } })
+  if (!current) return { ok: false, error: 'Book not found' }
+  const neighbour = await db.yearBook.findFirst({
+    where: { year: current.year, position: direction === 'up' ? { lt: current.position } : { gt: current.position } },
+    orderBy: { position: direction === 'up' ? 'desc' : 'asc' }
+  })
+  if (!neighbour) return { ok: true }
+  await db.$transaction([
+    db.yearBook.update({ where: { id: current.id }, data: { position: -1 } }),
+    db.yearBook.update({ where: { id: neighbour.id }, data: { position: current.position } }),
+    db.yearBook.update({ where: { id: current.id }, data: { position: neighbour.position } })
+  ])
+  revalidateYear(current.year)
   return { ok: true }
 }
 
@@ -58,10 +68,10 @@ export async function addToList(suggestionId: string): Promise<Result> {
   return { ok: true }
 }
 
-export async function toggleVeto(suggestionId: string): Promise<Result> {
+export async function toggleRejected(suggestionId: string): Promise<Result> {
   const suggestion = await db.suggestion.findUnique({ where: { id: suggestionId } })
   if (!suggestion) return { ok: false, error: 'Suggestion not found' }
-  await db.suggestion.update({ where: { id: suggestionId }, data: { vetoed: !suggestion.vetoed } })
+  await db.suggestion.update({ where: { id: suggestionId }, data: { rejected: !suggestion.rejected } })
   revalidateYear(suggestion.year)
   return { ok: true }
 }

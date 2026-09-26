@@ -13,7 +13,6 @@ export interface YearBookItem {
   id: string
   year: number
   position: number
-  month: string | null
   book: BookInfo
   reads: Person[]
 }
@@ -22,7 +21,7 @@ export interface SuggestionItem {
   id: string
   year: number
   proposedBy: Person
-  vetoed: boolean
+  rejected: boolean
   onList: boolean
   book: BookInfo
 }
@@ -30,6 +29,5 @@ export interface SuggestionItem {
 export interface YearStats {
   year: number
   books: number
-  readByAll: number
   pages: number
 }

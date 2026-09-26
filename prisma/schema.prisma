@@ -32,7 +32,7 @@ model Suggestion {
   book       Book     @relation(fields: [bookId], references: [id], onDelete: Cascade)
   bookId     String
   proposedBy Person
-  vetoed     Boolean  @default(false)
+  rejected   Boolean  @default(false)
   createdAt  DateTime @default(now())
 
   @@unique([year, bookId])
@@ -45,7 +45,6 @@ model YearBook {
   book      Book     @relation(fields: [bookId], references: [id], onDelete: Cascade)
   bookId    String
   position  Int
-  month     String?
   createdAt DateTime @default(now())
   reads     Read[]
 

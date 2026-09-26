@@ -21,7 +21,6 @@ export default async function StatsPage() {
             <TableRow>
               <TableCell>Year</TableCell>
               <TableCell align="right">Books</TableCell>
-              <TableCell align="right">Read by all</TableCell>
               <TableCell align="right">Pages</TableCell>
               <TableCell align="right">Pages / month</TableCell>
             </TableRow>
@@ -33,7 +32,6 @@ export default async function StatsPage() {
                   <NextLink href={`/${y.year}`} style={{ color: 'inherit' }}>{y.year}</NextLink>
                 </TableCell>
                 <TableCell align="right">{y.books}</TableCell>
-                <TableCell align="right">{y.readByAll}</TableCell>
                 <TableCell align="right">{y.pages.toLocaleString('en')}</TableCell>
                 <TableCell align="right">{pagesPerMonth(y.pages)}</TableCell>
               </TableRow>
@@ -41,7 +39,6 @@ export default async function StatsPage() {
             <TableRow>
               <TableCell sx={{ fontWeight: 700 }}>Total</TableCell>
               <TableCell align="right" sx={{ fontWeight: 700 }}>{totalBooks}</TableCell>
-              <TableCell />
               <TableCell align="right" sx={{ fontWeight: 700 }}>{totalPages.toLocaleString('en')}</TableCell>
               <TableCell />
             </TableRow>

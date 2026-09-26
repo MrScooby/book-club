@@ -58,12 +58,9 @@ for (const r of sugRows) {
     if (!text(title)) continue
     const key = bookKey({ title, url, pages: pagesOf(pages) })
     if (suggestions.some((s) => s.year === year && s.bookKey === key)) continue
-    suggestions.push({ year, bookKey: key, proposedBy: person, vetoed: isMark(veto) })
+    suggestions.push({ year, bookKey: key, proposedBy: person, rejected: isMark(veto) })
   }
 }
-
-const months = new Map()
-for (const r of rows('2025')) if (text(r[1]) && text(r[6])) months.set(normalize(r[1]), text(r[6]))
 
 const yearBooks = []
 let year = null
@@ -77,12 +74,12 @@ for (const r of rows('all')) {
   if (parts) {
     for (const part of parts) {
       const key = bookKey({ title: part })
-      yearBooks.push({ year, bookKey: key, position: ++position, month: null, reads })
+      yearBooks.push({ year, bookKey: key, position: ++position, reads })
     }
     continue
   }
   const key = bookKey({ title, pages: pagesOf(pages), canonicalPages: true })
-  yearBooks.push({ year, bookKey: key, position: ++position, month: months.get(normalize(title)) ?? null, reads })
+  yearBooks.push({ year, bookKey: key, position: ++position, reads })
 }
 
 for (const r of rows('2023')) {
@@ -90,7 +87,7 @@ for (const r of rows('2023')) {
   const key = bookKey({ title: r[1] })
   if (!yearBooks.some((y) => y.year === 2023 && y.bookKey === key)) {
     const pos = yearBooks.filter((y) => y.year === 2023).length + 1
-    yearBooks.push({ year: 2023, bookKey: key, position: pos, month: null, reads: [] })
+    yearBooks.push({ year: 2023, bookKey: key, position: pos, reads: [] })
   }
 }
 

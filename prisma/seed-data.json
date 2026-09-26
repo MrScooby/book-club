@@ -1273,7 +1273,6 @@
       "year": 2026,
       "bookKey": "lc:4986936",
       "position": 1,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1284,7 +1283,6 @@
       "year": 2026,
       "bookKey": "lc:4939505",
       "position": 2,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1295,7 +1293,6 @@
       "year": 2026,
       "bookKey": "lc:5108104",
       "position": 3,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1306,7 +1303,6 @@
       "year": 2026,
       "bookKey": "lc:4859913",
       "position": 4,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1317,7 +1313,6 @@
       "year": 2026,
       "bookKey": "lc:5169376",
       "position": 5,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1328,7 +1323,6 @@
       "year": 2026,
       "bookKey": "lc:4964704",
       "position": 6,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1339,7 +1333,6 @@
       "year": 2026,
       "bookKey": "t:linia na piasku. konflikt, który ukształtował bliski wschód",
       "position": 7,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1350,7 +1343,6 @@
       "year": 2026,
       "bookKey": "lc:5115065",
       "position": 8,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1361,7 +1353,6 @@
       "year": 2026,
       "bookKey": "lc:5129443",
       "position": 9,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1372,7 +1363,6 @@
       "year": 2026,
       "bookKey": "lc:5134927",
       "position": 10,
-      "month": null,
       "reads": [
         "SCOOBY",
         "BARTEK"
@@ -1382,7 +1372,6 @@
       "year": 2026,
       "bookKey": "lc:5180338",
       "position": 11,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1393,35 +1382,30 @@
       "year": 2026,
       "bookKey": "lc:49593",
       "position": 12,
-      "month": null,
       "reads": []
     },
     {
       "year": 2026,
       "bookKey": "lc:4945805",
       "position": 13,
-      "month": null,
       "reads": []
     },
     {
       "year": 2026,
       "bookKey": "lc:5171535",
       "position": 14,
-      "month": null,
       "reads": []
     },
     {
       "year": 2026,
       "bookKey": "lc:4970632",
       "position": 15,
-      "month": null,
       "reads": []
     },
     {
       "year": 2025,
       "bookKey": "lc:5115422",
       "position": 1,
-      "month": "Styczeń",
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1432,7 +1416,6 @@
       "year": 2025,
       "bookKey": "lc:5111877",
       "position": 2,
-      "month": "Styczeń / Luty",
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1443,7 +1426,6 @@
       "year": 2025,
       "bookKey": "lc:5168033",
       "position": 3,
-      "month": "Luty / Marzec",
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1454,7 +1436,6 @@
       "year": 2025,
       "bookKey": "lc:4810822",
       "position": 4,
-      "month": "Marzec",
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1465,7 +1446,6 @@
       "year": 2025,
       "bookKey": "lc:5067610",
       "position": 5,
-      "month": "Kwiecień",
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1476,7 +1456,6 @@
       "year": 2025,
       "bookKey": "lc:5017632",
       "position": 6,
-      "month": "Kwiecień / Maj",
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1487,7 +1466,6 @@
       "year": 2025,
       "bookKey": "lc:4929173",
       "position": 7,
-      "month": "Maj",
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1498,7 +1476,6 @@
       "year": 2025,
       "bookKey": "lc:5124518",
       "position": 8,
-      "month": "Maj/Czerwiec",
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1509,7 +1486,6 @@
       "year": 2025,
       "bookKey": "lc:4864257",
       "position": 9,
-      "month": "Czerwiec",
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1520,7 +1496,6 @@
       "year": 2025,
       "bookKey": "lc:5124940",
       "position": 10,
-      "month": "Lipiec",
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1531,7 +1506,6 @@
       "year": 2025,
       "bookKey": "lc:49585",
       "position": 11,
-      "month": "Sierpień",
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1542,7 +1516,6 @@
       "year": 2025,
       "bookKey": "lc:5103316",
       "position": 12,
-      "month": "Wrzesień",
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1553,7 +1526,6 @@
       "year": 2025,
       "bookKey": "lc:4843623",
       "position": 13,
-      "month": "Październik",
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1564,7 +1536,6 @@
       "year": 2025,
       "bookKey": "lc:4878905",
       "position": 14,
-      "month": "Listopad",
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1575,7 +1546,6 @@
       "year": 2025,
       "bookKey": "lc:4970629",
       "position": 15,
-      "month": "Grudzień",
       "reads": [
         "SCOOBY",
         "BARTEK"
@@ -1585,7 +1555,6 @@
       "year": 2024,
       "bookKey": "lc:47771",
       "position": 1,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1596,7 +1565,6 @@
       "year": 2024,
       "bookKey": "lc:134067",
       "position": 2,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1607,7 +1575,6 @@
       "year": 2024,
       "bookKey": "lc:291216",
       "position": 3,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1618,7 +1585,6 @@
       "year": 2024,
       "bookKey": "lc:5025585",
       "position": 4,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1629,7 +1595,6 @@
       "year": 2024,
       "bookKey": "lc:4224812",
       "position": 5,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1640,7 +1605,6 @@
       "year": 2024,
       "bookKey": "lc:5091460",
       "position": 6,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1651,7 +1615,6 @@
       "year": 2024,
       "bookKey": "lc:73555",
       "position": 7,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1662,7 +1625,6 @@
       "year": 2024,
       "bookKey": "lc:5085671",
       "position": 8,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1673,7 +1635,6 @@
       "year": 2024,
       "bookKey": "lc:4905356",
       "position": 9,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1684,7 +1645,6 @@
       "year": 2024,
       "bookKey": "lc:5076430",
       "position": 10,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1695,7 +1655,6 @@
       "year": 2024,
       "bookKey": "lc:5021417",
       "position": 11,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1706,7 +1665,6 @@
       "year": 2024,
       "bookKey": "lc:4001",
       "position": 12,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1717,7 +1675,6 @@
       "year": 2023,
       "bookKey": "lc:4864254",
       "position": 1,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1728,7 +1685,6 @@
       "year": 2023,
       "bookKey": "t:migot. z krańca grenlandii",
       "position": 2,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1739,7 +1695,6 @@
       "year": 2023,
       "bookKey": "lc:5020227",
       "position": 3,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1750,7 +1705,6 @@
       "year": 2023,
       "bookKey": "lc:4910992",
       "position": 4,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1761,7 +1715,6 @@
       "year": 2023,
       "bookKey": "lc:4908994",
       "position": 5,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1772,7 +1725,6 @@
       "year": 2023,
       "bookKey": "lc:5014374",
       "position": 6,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1783,7 +1735,6 @@
       "year": 2022,
       "bookKey": "lc:4878979",
       "position": 1,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1794,7 +1745,6 @@
       "year": 2022,
       "bookKey": "lc:4511839",
       "position": 2,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1805,7 +1755,6 @@
       "year": 2022,
       "bookKey": "lc:257882",
       "position": 3,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1816,7 +1765,6 @@
       "year": 2022,
       "bookKey": "lc:4806092",
       "position": 4,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1827,7 +1775,6 @@
       "year": 2022,
       "bookKey": "lc:4987255",
       "position": 5,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1838,7 +1785,6 @@
       "year": 2022,
       "bookKey": "lc:4858731",
       "position": 6,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1849,7 +1795,6 @@
       "year": 2022,
       "bookKey": "lc:4871623",
       "position": 7,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1860,7 +1805,6 @@
       "year": 2022,
       "bookKey": "lc:15115",
       "position": 8,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1871,7 +1815,6 @@
       "year": 2022,
       "bookKey": "lc:4856006",
       "position": 9,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1882,7 +1825,6 @@
       "year": 2022,
       "bookKey": "lc:291636",
       "position": 10,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1893,7 +1835,6 @@
       "year": 2022,
       "bookKey": "lc:4968604",
       "position": 11,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1904,7 +1845,6 @@
       "year": 2022,
       "bookKey": "lc:4962716",
       "position": 12,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1915,7 +1855,6 @@
       "year": 2022,
       "bookKey": "lc:4808046",
       "position": 13,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1926,7 +1865,6 @@
       "year": 2021,
       "bookKey": "lc:4871303",
       "position": 1,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1937,7 +1875,6 @@
       "year": 2021,
       "bookKey": "lc:4805850",
       "position": 2,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1948,7 +1885,6 @@
       "year": 2021,
       "bookKey": "lc:4882986",
       "position": 3,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1959,7 +1895,6 @@
       "year": 2021,
       "bookKey": "lc:4304",
       "position": 4,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1970,7 +1905,6 @@
       "year": 2021,
       "bookKey": "t:ptasiek",
       "position": 5,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1981,7 +1915,6 @@
       "year": 2021,
       "bookKey": "t:dziewiętnaście minut",
       "position": 6,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -1992,7 +1925,6 @@
       "year": 2021,
       "bookKey": "t:bogaty ojciec, biedny ojciec",
       "position": 7,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -2003,7 +1935,6 @@
       "year": 2021,
       "bookKey": "lc:4928183",
       "position": 8,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -2014,7 +1945,6 @@
       "year": 2021,
       "bookKey": "lc:4931632",
       "position": 9,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -2025,7 +1955,6 @@
       "year": 2021,
       "bookKey": "lc:124827",
       "position": 10,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -2036,7 +1965,6 @@
       "year": 2021,
       "bookKey": "lc:4939813",
       "position": 11,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -2047,7 +1975,6 @@
       "year": 2021,
       "bookKey": "lc:4704919",
       "position": 12,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -2058,7 +1985,6 @@
       "year": 2020,
       "bookKey": "lc:170097",
       "position": 1,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -2069,7 +1995,6 @@
       "year": 2020,
       "bookKey": "lc:4897078",
       "position": 2,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -2080,7 +2005,6 @@
       "year": 2020,
       "bookKey": "lc:4233532",
       "position": 3,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -2091,7 +2015,6 @@
       "year": 2020,
       "bookKey": "lc:4867395",
       "position": 4,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -2102,7 +2025,6 @@
       "year": 2020,
       "bookKey": "lc:4871398",
       "position": 5,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -2113,7 +2035,6 @@
       "year": 2020,
       "bookKey": "lc:4892513",
       "position": 6,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -2124,7 +2045,6 @@
       "year": 2020,
       "bookKey": "lc:4860910",
       "position": 7,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -2135,7 +2055,6 @@
       "year": 2020,
       "bookKey": "lc:4800034",
       "position": 8,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -2146,7 +2065,6 @@
       "year": 2020,
       "bookKey": "lc:265114",
       "position": 9,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -2157,7 +2075,6 @@
       "year": 2020,
       "bookKey": "lc:4813295",
       "position": 10,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -2168,7 +2085,6 @@
       "year": 2020,
       "bookKey": "lc:4858281",
       "position": 11,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -2179,7 +2095,6 @@
       "year": 2020,
       "bookKey": "lc:4877852",
       "position": 12,
-      "month": null,
       "reads": [
         "SCOOBY",
         "MINIS",
@@ -2190,7 +2105,6 @@
       "year": 2023,
       "bookKey": "lc:4811054",
       "position": 7,
-      "month": null,
       "reads": []
     }
   ],
@@ -2199,1129 +2113,1129 @@
       "year": 2020,
       "bookKey": "lc:4860910",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2020,
       "bookKey": "lc:4858281",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2020,
       "bookKey": "lc:4897078",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2020,
       "bookKey": "lc:4867395",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2020,
       "bookKey": "lc:4233532",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2020,
       "bookKey": "lc:4892513",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2020,
       "bookKey": "lc:4800034",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2020,
       "bookKey": "lc:4822753",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2020,
       "bookKey": "lc:265114",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2020,
       "bookKey": "lc:37748",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2020,
       "bookKey": "lc:4871398",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2020,
       "bookKey": "lc:4813295",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2020,
       "bookKey": "lc:170097",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2020,
       "bookKey": "lc:4877852",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2020,
       "bookKey": "lc:4173413",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2020,
       "bookKey": "lc:4092539",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2021,
       "bookKey": "lc:4704919",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2021,
       "bookKey": "lc:4931632",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2021,
       "bookKey": "lc:4805850",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2021,
       "bookKey": "lc:4853986",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2021,
       "bookKey": "lc:4882986",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2021,
       "bookKey": "lc:312930",
       "proposedBy": "SCOOBY",
-      "vetoed": true
+      "rejected": true
     },
     {
       "year": 2021,
       "bookKey": "lc:4871303",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2021,
       "bookKey": "lc:4939813",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2021,
       "bookKey": "lc:4928183",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2021,
       "bookKey": "lc:4921833",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2021,
       "bookKey": "lc:308501",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2021,
       "bookKey": "lc:4933594",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2021,
       "bookKey": "lc:4885764",
       "proposedBy": "BARTEK",
-      "vetoed": true
+      "rejected": true
     },
     {
       "year": 2021,
       "bookKey": "lc:4914717",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2021,
       "bookKey": "lc:54023",
       "proposedBy": "SCOOBY",
-      "vetoed": true
+      "rejected": true
     },
     {
       "year": 2021,
       "bookKey": "lc:124827",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2021,
       "bookKey": "lc:49846",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2021,
       "bookKey": "lc:4304",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:4368326",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:4808046",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:4871623",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:73679",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:4987110",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:4991171",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:4965296",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:291636",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:4968604",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:4949256",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:4917967",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:4844814",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:4878979",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:4511839",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:4810822",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:82739",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:4962716",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:4332",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:4881543",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:253676",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:4856006",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:29091",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:257882",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:15115",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:4858731",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:4806092",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2022,
       "bookKey": "lc:4987255",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2023,
       "bookKey": "lc:4860248",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2023,
       "bookKey": "lc:4864254",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2023,
       "bookKey": "lc:4844814",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2023,
       "bookKey": "lc:4970275",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2023,
       "bookKey": "lc:5055570",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2023,
       "bookKey": "lc:4804059",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2023,
       "bookKey": "lc:135091",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2023,
       "bookKey": "lc:4964704",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2023,
       "bookKey": "lc:5014374",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2023,
       "bookKey": "lc:4811054",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2023,
       "bookKey": "lc:4910992",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2023,
       "bookKey": "lc:4451510",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2023,
       "bookKey": "lc:5020227",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2023,
       "bookKey": "lc:5025494",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2023,
       "bookKey": "lc:4908994",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2023,
       "bookKey": "lc:4001",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2023,
       "bookKey": "lc:191164",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2023,
       "bookKey": "lc:4914587",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2023,
       "bookKey": "lc:54023",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2023,
       "bookKey": "lc:178740",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2023,
       "bookKey": "lc:5012545",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2023,
       "bookKey": "lc:274606",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2023,
       "bookKey": "lc:236175",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2023,
       "bookKey": "lc:75750",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2024,
       "bookKey": "lc:4905356",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2024,
       "bookKey": "lc:73555",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2024,
       "bookKey": "lc:5085671",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2024,
       "bookKey": "lc:5021417",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2024,
       "bookKey": "lc:5025494",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2024,
       "bookKey": "lc:5076430",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2024,
       "bookKey": "lc:47771",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2024,
       "bookKey": "lc:4001",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2024,
       "bookKey": "lc:5025585",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2024,
       "bookKey": "lc:5068091",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2024,
       "bookKey": "lc:134067",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2024,
       "bookKey": "lc:4969515",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2024,
       "bookKey": "lc:4811054",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2024,
       "bookKey": "lc:301613",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2024,
       "bookKey": "lc:5079993",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2024,
       "bookKey": "lc:293177",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2024,
       "bookKey": "lc:4224812",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2024,
       "bookKey": "lc:5091460",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2024,
       "bookKey": "lc:291216",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:5067610",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:49585",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:5124728",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:5066891",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:5109767",
       "proposedBy": "MINIS",
-      "vetoed": true
+      "rejected": true
     },
     {
       "year": 2025,
       "bookKey": "lc:37748",
       "proposedBy": "BARTEK",
-      "vetoed": true
+      "rejected": true
     },
     {
       "year": 2025,
       "bookKey": "lc:4860953",
       "proposedBy": "SCOOBY",
-      "vetoed": true
+      "rejected": true
     },
     {
       "year": 2025,
       "bookKey": "lc:4939505",
       "proposedBy": "MINIS",
-      "vetoed": true
+      "rejected": true
     },
     {
       "year": 2025,
       "bookKey": "lc:5124940",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:239509",
       "proposedBy": "SCOOBY",
-      "vetoed": true
+      "rejected": true
     },
     {
       "year": 2025,
       "bookKey": "lc:4864257",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:4987810",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:4848757",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:5168033",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:5115422",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:4459056",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:4811730",
       "proposedBy": "MINIS",
-      "vetoed": true
+      "rejected": true
     },
     {
       "year": 2025,
       "bookKey": "lc:5124518",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:253676",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:4896952",
       "proposedBy": "MINIS",
-      "vetoed": true
+      "rejected": true
     },
     {
       "year": 2025,
       "bookKey": "lc:5122150",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:237974",
       "proposedBy": "SCOOBY",
-      "vetoed": true
+      "rejected": true
     },
     {
       "year": 2025,
       "bookKey": "lc:5017632",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:5109924",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:4878905",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:5059257",
       "proposedBy": "MINIS",
-      "vetoed": true
+      "rejected": true
     },
     {
       "year": 2025,
       "bookKey": "lc:4810822",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:49593",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:4967360",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:5124027",
       "proposedBy": "BARTEK",
-      "vetoed": true
+      "rejected": true
     },
     {
       "year": 2025,
       "bookKey": "lc:4929173",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:4843623",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:5130473",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:5111877",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:5131218",
       "proposedBy": "MINIS",
-      "vetoed": true
+      "rejected": true
     },
     {
       "year": 2025,
       "bookKey": "lc:5095874",
       "proposedBy": "BARTEK",
-      "vetoed": true
+      "rejected": true
     },
     {
       "year": 2025,
       "bookKey": "lc:5110291",
       "proposedBy": "SCOOBY",
-      "vetoed": true
+      "rejected": true
     },
     {
       "year": 2025,
       "bookKey": "lc:5075978",
       "proposedBy": "MINIS",
-      "vetoed": true
+      "rejected": true
     },
     {
       "year": 2025,
       "bookKey": "lc:5052028",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:5103316",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:4933946",
       "proposedBy": "MINIS",
-      "vetoed": true
+      "rejected": true
     },
     {
       "year": 2025,
       "bookKey": "lc:4943457",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "lc:5134467",
       "proposedBy": "SCOOBY",
-      "vetoed": true
+      "rejected": true
     },
     {
       "year": 2025,
       "bookKey": "lc:148873",
       "proposedBy": "MINIS",
-      "vetoed": true
+      "rejected": true
     },
     {
       "year": 2025,
       "bookKey": "lc:4955540",
       "proposedBy": "BARTEK",
-      "vetoed": true
+      "rejected": true
     },
     {
       "year": 2025,
       "bookKey": "lc:4970629",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2025,
       "bookKey": "t:strony =",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:4945703",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:5129443",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:4970632",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:5115065",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:79777",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:5169376",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:5184867",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:4986936",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:5180338",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:5029090",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:4849600",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:4965583",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:5134927",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:4991165",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:5116335",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:5188657",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:4983331",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:5171535",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:5036477",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:4859913",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:5169080",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:5108104",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:4964704",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:5098202",
       "proposedBy": "BARTEK",
-      "vetoed": true
+      "rejected": true
     },
     {
       "year": 2026,
       "bookKey": "lc:5188094",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:5109767",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:5129233",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:5056580",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:4939505",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:151396",
       "proposedBy": "BARTEK",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:4862791",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:4224823",
       "proposedBy": "MINIS",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:240169",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:228763",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:49593",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "lc:4945805",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     },
     {
       "year": 2026,
       "bookKey": "t:\"+wszystkie te światy",
       "proposedBy": "SCOOBY",
-      "vetoed": false
+      "rejected": false
     }
   ]
 }
