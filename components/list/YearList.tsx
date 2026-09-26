@@ -101,7 +101,7 @@ export default function YearList({ year, items }: { year: number; items: YearBoo
                   </Box>
                   <RowMenu item={item} isFirst={i === 0} isLast={i === items.length - 1} />
                 </Stack>
-                <Stack direction="row" spacing={1.5} sx={{ mt: 1.5, pl: 3.75 }}>
+                <Stack direction="row" spacing={1} sx={{ mt: 1.25, pl: 3.75 }}>
                   {PEOPLE.map((person) => (
                     <ReadToggle key={person} yearBookId={item.id} person={person} read={item.reads.includes(person)} />
                   ))}
@@ -118,7 +118,7 @@ export default function YearList({ year, items }: { year: number; items: YearBoo
                 <TableCell width={48}>#</TableCell>
                 <TableCell>Title</TableCell>
                 {PEOPLE.map((p) => (
-                  <TableCell key={p} align="center" width={72}>{PERSON_NAME[p]}</TableCell>
+                  <TableCell key={p} align="center" width={64}>{PERSON_NAME[p]}</TableCell>
                 ))}
                 <TableCell align="right" width={90}>Pages</TableCell>
                 <TableCell width={56} />

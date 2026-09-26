@@ -25,7 +25,7 @@ export default function ReadToggle({ yearBookId, person, read, size = 'large' }:
     })
   }
 
-  const px = size === 'large' ? 48 : 40
+  const px = size === 'large' ? 36 : 30
 
   return (
     <Button
@@ -40,12 +40,12 @@ export default function ReadToggle({ yearBookId, person, read, size = 'large' }:
         height: px,
         p: 0,
         fontWeight: 700,
-        fontSize: size === 'large' ? 18 : 15,
+        fontSize: size === 'large' ? 14 : 13,
         borderColor: optimistic ? undefined : 'divider',
         color: optimistic ? undefined : 'text.secondary'
       }}
     >
-      {optimistic ? <Check /> : PERSON_INITIAL[person]}
+      {optimistic ? <Check fontSize="small" /> : PERSON_INITIAL[person]}
     </Button>
   )
 }
