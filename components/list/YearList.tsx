@@ -34,7 +34,6 @@ function RowMenu({ item }: { item: YearBookItem }) {
 
   const remove = () => {
     setAnchor(null)
-    if (!confirm(`Remove "${item.book.title}" from the ${item.year} list?`)) return
     startTransition(async () => { await removeFromList(item.id) })
   }
 

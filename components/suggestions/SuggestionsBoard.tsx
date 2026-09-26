@@ -16,7 +16,6 @@ function SuggestionCard({ item }: { item: SuggestionItem }) {
   const { book } = item
 
   const remove = () => {
-    if (!confirm(`Delete "${book.title}" from ${item.year} suggestions?`)) return
     startTransition(async () => { await deleteSuggestion(item.id) })
   }
 
