@@ -13,6 +13,8 @@ import { moveOnList, removeFromList } from '@/lib/actions'
 import ReadToggle from './ReadToggle'
 import MonthRail from './MonthRail'
 
+const HEADER_HEIGHT = 56
+
 function Title({ item }: { item: YearBookItem }) {
   if (!item.book.url) return <>{item.book.title}</>
   return (
@@ -77,7 +79,9 @@ export default function YearList({ year, items }: { year: number; items: YearBoo
       <Summary items={items} />
 
       <Box sx={{ display: 'flex', gap: 1.5, alignItems: 'stretch' }}>
-        <MonthRail year={year} />
+        <Box sx={{ display: 'flex', mt: { xs: 0, md: `${HEADER_HEIGHT + 1}px` } }}>
+          <MonthRail year={year} />
+        </Box>
 
         <Stack spacing={1.5} sx={{ display: { xs: 'flex', md: 'none' }, flex: 1, minWidth: 0 }}>
           {items.map((item, i) => (
@@ -110,7 +114,7 @@ export default function YearList({ year, items }: { year: number; items: YearBoo
         <Paper variant="outlined" sx={{ display: { xs: 'none', md: 'block' }, flex: 1, minWidth: 0 }}>
           <Table>
             <TableHead>
-              <TableRow>
+              <TableRow sx={{ height: HEADER_HEIGHT }}>
                 <TableCell width={48}>#</TableCell>
                 <TableCell>Title</TableCell>
                 {PEOPLE.map((p) => (
